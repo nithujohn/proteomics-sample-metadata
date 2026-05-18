@@ -39327,15 +39327,15 @@
         "ms-proteomics"
       ],
       [
-        "human-gut",
-        "soil",
-        "water"
-      ],
-      [
         "human",
         "invertebrates",
         "plants",
         "vertebrates"
+      ],
+      [
+        "human-gut",
+        "soil",
+        "water"
       ],
       [
         "affinity-proteomics",
