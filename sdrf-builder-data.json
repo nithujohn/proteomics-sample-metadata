@@ -39328,10 +39328,6 @@
         "vertebrates"
       ],
       [
-        "affinity-proteomics",
-        "ms-proteomics"
-      ],
-      [
         "human",
         "invertebrates",
         "metaproteomics",
@@ -39341,6 +39337,10 @@
       [
         "affinity-proteomics",
         "ms-metabolomics",
+        "ms-proteomics"
+      ],
+      [
+        "affinity-proteomics",
         "ms-proteomics"
       ],
       [
