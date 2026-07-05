@@ -5,7 +5,7 @@
     "total_sdrf_files": 333,
     "split_accessions": 13,
     "total_samples": 89523,
-    "generated_at": "2026-07-04T08:06:25.144241Z",
+    "generated_at": "2026-07-05T08:20:14.389518Z",
     "source_repository_url": "https://github.com/bigbio/sdrf-annotated-datasets",
     "organisms": {
       "Homo sapiens": 60475,
@@ -349,13 +349,13 @@
         "Homo sapiens"
       ],
       "diseases": [
-        "non-small cell lung cancer",
-        "small cell lung cancer"
+        "small cell lung cancer",
+        "non-small cell lung cancer"
       ],
       "instruments": [
-        "LTQ Orbitrap Velos",
         "Orbitrap Elite",
-        " Orbitrap Fusion Lumos"
+        " Orbitrap Fusion Lumos",
+        "LTQ Orbitrap Velos"
       ],
       "acquisition_methods": [
         "Data-dependent acquisition"
@@ -440,8 +440,8 @@
         "homo sapiens"
       ],
       "diseases": [
-        "colon carcinoma",
-        "metastatic malignant neoplasm in the liver"
+        "metastatic malignant neoplasm in the liver",
+        "colon carcinoma"
       ],
       "instruments": [
         "LTQ Orbitrap XL"
@@ -470,12 +470,12 @@
         "homo sapiens"
       ],
       "diseases": [
-        "monoclonal gammopathy",
-        "multiple myeloma"
+        "multiple myeloma",
+        "monoclonal gammopathy"
       ],
       "instruments": [
-        "LTQ Orbitrap XL",
-        "Orbitrap Elite"
+        "Orbitrap Elite",
+        "LTQ Orbitrap XL"
       ],
       "acquisition_methods": [
         "Data-dependent acquisition"
@@ -582,10 +582,10 @@
         "Homo sapiens"
       ],
       "diseases": [
+        "Colon Mucinous Adenocarcinoma",
         "Rectal Adenocarcinoma",
-        "Colon Adenocarcinoma",
         "Rectal Mucinous Adenocarcinoma",
-        "Colon Mucinous Adenocarcinoma"
+        "Colon Adenocarcinoma"
       ],
       "instruments": [
         "LTQ Orbitrap Velos"
@@ -924,9 +924,9 @@
         "Homo sapiens"
       ],
       "diseases": [
-        "heart infarction",
+        "cardiopulmonary insufficiency",
         "lung embolism",
-        "cardiopulmonary insufficiency"
+        "heart infarction"
       ],
       "instruments": [
         "LTQ Orbitrap XL"
@@ -955,9 +955,9 @@
         "Homo sapiens"
       ],
       "diseases": [
-        "heart infarction",
+        "cardiopulmonary insufficiency",
         "lung embolism",
-        "cardiopulmonary insufficiency"
+        "heart infarction"
       ],
       "instruments": [
         "LTQ Orbitrap XL"
@@ -987,8 +987,8 @@
       ],
       "diseases": [],
       "instruments": [
-        "LTQ Orbitrap Velos",
-        "Orbitrap Elite"
+        "Orbitrap Elite",
+        "LTQ Orbitrap Velos"
       ],
       "acquisition_methods": [
         "Data-dependent acquisition"
@@ -2094,11 +2094,11 @@
         "Homo sapiens"
       ],
       "diseases": [
-        "Breast Cancer",
-        "Breast Adenocarcinoma",
-        "Glioblastoma",
         "Mlignant Melanoma",
-        "Pancreatic Carcinoma"
+        "Breast Adenocarcinoma",
+        "Pancreatic Carcinoma",
+        "Breast Cancer",
+        "Glioblastoma"
       ],
       "instruments": [
         "LTQ Orbitrap Velos"
@@ -2239,16 +2239,16 @@
         "Homo sapiens"
       ],
       "diseases": [
-        "Osteosarcoma",
-        "Invasive ductal carcinoma, not otherwise specified",
         "Lung adenocarcinoma",
-        "Glioblastoma",
-        "Childhood T acute lymphoblastic leukemia",
-        "Hepatoblastoma",
-        "Human papillomavirus-related endocervical adenocarcinoma",
+        "Invasive ductal carcinoma, not otherwise specified",
         "Prostate carcinoma",
         "Chronic myelogenous leukemia, BCR-ABL1 positive",
-        "Colon carcinoma"
+        "Osteosarcoma",
+        "Hepatoblastoma",
+        "Colon carcinoma",
+        "Human papillomavirus-related endocervical adenocarcinoma",
+        "Childhood T acute lymphoblastic leukemia",
+        "Glioblastoma"
       ],
       "instruments": [
         "LTQ Orbitrap Velos"
@@ -2301,8 +2301,8 @@
       "num_samples": 4311,
       "num_columns": 21,
       "organisms": [
-        "Mus musculus",
-        "Homo sapiens"
+        "Homo sapiens",
+        "Mus musculus"
       ],
       "diseases": [],
       "instruments": [
@@ -2502,27 +2502,27 @@
         "Homo sapiens"
       ],
       "diseases": [
-        "cutaneous T cell lymphoma",
-        "Multiple Myeloma",
-        "Mantle cell lymphoma",
+        "Primary mediastinal large B-cell lymphoma",
+        "Diffuse large B-cell lymphoma",
+        "Burkitt's lymphoma",
+        "lymphoma",
         "Sezary Syndrome",
-        "Nodular lymphocyte predominant Hodgkin lymphoma",
+        "cutaneous T cell lymphoma",
+        "Classical Hodgkin lymphoma",
+        "Anaplastic large cell lymphoma,",
         "Burkitt lymphoma",
         "Anaplastic large cell lymphoma",
-        "Anaplastic large cell lymphoma,",
-        "Diffuse large B-cell lymphoma",
-        "acute T cell leukemia",
-        "Transformed follicular lymphoma",
-        "Primary mediastinal large B-cell lymphoma",
-        "diffuse histiocytic lymphoma",
-        "Burkitt's lymphoma",
-        "Aggressive NK-cell leukemia",
-        "lymphoma",
+        "Nodular lymphocyte predominant Hodgkin lymphoma",
         "Burkitt's lymphoma (American)",
-        "follicular lymphoma",
+        "Transformed follicular lymphoma",
+        "Aggressive NK-cell leukemia",
+        "diffuse histiocytic lymphoma",
         "malignant non-Hodgkin's lymphoma",
-        "Classical Hodgkin lymphoma",
-        "plasmacytoma"
+        "Mantle cell lymphoma",
+        "follicular lymphoma",
+        "acute T cell leukemia",
+        "plasmacytoma",
+        "Multiple Myeloma"
       ],
       "instruments": [
         "LTQ Orbitrap XL"
@@ -2612,36 +2612,36 @@
         "Homo sapiens"
       ],
       "diseases": [
-        "ovarian adenocarcinoma",
-        "glioblastoma",
-        "acute T lymphoblastic leukaemia",
-        "renal adenocarcinoma",
-        "breast ductal adenocarcinoma",
-        "astrocytoma",
-        "large cell lung carcinoma",
-        "ovarian carcinoma",
-        "prostate adenocarcinoma",
         "acute lymphoblastic leukemia",
-        "renal carcinoma",
-        "non-small cell lung carcinoma",
-        "malignant melanoma",
-        "renal cell carcinoma",
-        "ovarian serous cystadenocarcinoma",
-        "clear cell renal carcinoma",
-        "renal clear cell adenocarcinoma",
-        "mesothelioma",
-        "promyelocytic leukemia",
-        "skin cutaneous melanoma",
-        "breast carcinoma",
-        "immunoblastic large cell lymphoma",
         "breast adenocarcinoma",
-        "lung carcinoma",
-        "colon carcinoma",
-        "chronic myelogenic leukemia",
-        "glioma",
+        "breast carcinoma",
+        "glioblastoma",
+        "clear cell renal carcinoma",
+        "promyelocytic leukemia",
+        "ovarian serous cystadenocarcinoma",
+        "skin cutaneous melanoma",
+        "breast ductal adenocarcinoma",
+        "ovarian adenocarcinoma",
+        "mesothelioma",
+        "renal cell carcinoma",
+        "large cell lung carcinoma",
         "colon adenocarcinoma",
         "renal cell adenocarcinoma",
+        "colon carcinoma",
+        "glioma",
+        "astrocytoma",
+        "ovarian carcinoma",
+        "renal adenocarcinoma",
         "melanoma",
+        "prostate adenocarcinoma",
+        "lung carcinoma",
+        "renal carcinoma",
+        "renal clear cell adenocarcinoma",
+        "malignant melanoma",
+        "immunoblastic large cell lymphoma",
+        "non-small cell lung carcinoma",
+        "acute T lymphoblastic leukaemia",
+        "chronic myelogenic leukemia",
         "plasmacytoma"
       ],
       "instruments": [
@@ -2934,8 +2934,8 @@
         "none"
       ],
       "instruments": [
-        "Q Exactive Plus",
-        "LTQ Velos"
+        "LTQ Velos",
+        "Q Exactive Plus"
       ],
       "acquisition_methods": [
         "Data-dependent acquisition"
@@ -2961,10 +2961,10 @@
         "Homo sapiens"
       ],
       "diseases": [
-        "colon cancer",
         "lung adenocarcinoma",
-        "breast cancer",
         "neuroblastoma",
+        "breast cancer",
+        "colon cancer",
         "epithelial cervix carcinoma"
       ],
       "instruments": [
@@ -3327,8 +3327,8 @@
         "Homo sapiens"
       ],
       "diseases": [
-        "squamous cell carcinoma",
-        "control"
+        "control",
+        "squamous cell carcinoma"
       ],
       "instruments": [
         "Q Exactive Plus"
@@ -3357,17 +3357,17 @@
         "Homo sapiens"
       ],
       "diseases": [
-        "Breast inflammatory carcinoma",
-        "Breast carcinoma",
         "Breast adenocarcinoma",
-        "colon adenocarcinoma",
-        "Breast acantholytic squamous cell carcinoma",
         "Metastatic breast lobular carcinoma",
+        "Breast pleomorphic carcinoma",
+        "colon adenocarcinoma",
         "breast cancer",
-        "Invasive breast carcinoma of no special type",
         "Breast ductal carcinoma",
+        "Invasive breast carcinoma of no special type",
         "Invasive breast lobular carcinoma",
-        "Breast pleomorphic carcinoma"
+        "Breast carcinoma",
+        "Breast acantholytic squamous cell carcinoma",
+        "Breast inflammatory carcinoma"
       ],
       "instruments": [
         "TripleTOF 5600"
@@ -3533,13 +3533,13 @@
         "Homo sapiens"
       ],
       "diseases": [
-        "Colorecral adenocarcinoma",
+        "Healthy control",
         "Benigne Prostate Hyperplasia",
+        "Prostate cancer",
+        "Pancretic cancer",
         "Lung cancer",
         "Ovarian cancer",
-        "Prostate cancer",
-        "Healthy control",
-        "Pancretic cancer",
+        "Colorecral adenocarcinoma",
         "Pancreatic cancer"
       ],
       "instruments": [
@@ -3656,8 +3656,8 @@
         "Homo sapiens"
       ],
       "diseases": [
-        "Colorectal cancer",
-        "Normal Colorectum"
+        "Normal Colorectum",
+        "Colorectal cancer"
       ],
       "instruments": [
         "LTQ Orbitrap Velos"
@@ -4141,8 +4141,8 @@
         "homo sapiens"
       ],
       "diseases": [
-        "metastatic ovarian high grade serous adenocarcinoma",
-        "triple-negative breast cancer"
+        "triple-negative breast cancer",
+        "metastatic ovarian high grade serous adenocarcinoma"
       ],
       "instruments": [
         "Q Exactive"
@@ -4226,13 +4226,13 @@
       ],
       "diseases": [
         "astrocytoma",
+        "childhood T acute lymphoblastic leukemia",
         "prostate carcinoma",
+        "renal cell carcinoma",
+        "invasive ductal carcinoma",
+        "ovarian serous cystadenocarcinoma",
         "colon adenocarcinoma",
         "non-small cell lung adenocarcinoma",
-        "renal cell carcinoma",
-        "ovarian serous cystadenocarcinoma",
-        "childhood T acute lymphoblastic leukemia",
-        "invasive ductal carcinoma",
         "amelanotic melanoma"
       ],
       "instruments": [
@@ -4262,34 +4262,34 @@
         "homo sapiens"
       ],
       "diseases": [
-        "Pleural Epithelioid Mesothelioma",
-        "brain glioblastoma",
-        "metastatic melanoma",
-        "Ovarian Endometrioid Adenocarcinoma",
-        "anaplastic large cell lymphoma",
-        "astrocytoma",
-        "chronic myelogenous leukemia",
-        "cutaneous melanoma",
-        "non-small cell lung carcinoma",
-        "renal cell carcinoma",
-        "ovarian serous cystadenocarcinoma",
-        "invasive ductal carcinoma",
-        "clear cell renal carcinoma",
-        "adult T acute lymphoblastic leukemia",
-        "prostate carcinoma",
-        "Colon adenocarcinoma",
-        "multiple myeloma",
-        "breast adenocarcinoma",
-        "amelanotic melanoma",
-        "high grade ovarian serous adenocarcinoma",
-        "colon carcinoma",
-        "gliosarcoma",
-        "adult acute myeloid leukemia",
-        "colon adenocarcinoma",
-        "non-small cell lung adenocarcinoma",
-        "melanoma",
         "lung adenocarcinoma",
-        "childhood T acute lymphoblastic leukemia"
+        "breast adenocarcinoma",
+        "clear cell renal carcinoma",
+        "invasive ductal carcinoma",
+        "high grade ovarian serous adenocarcinoma",
+        "ovarian serous cystadenocarcinoma",
+        "non-small cell lung adenocarcinoma",
+        "anaplastic large cell lymphoma",
+        "multiple myeloma",
+        "gliosarcoma",
+        "renal cell carcinoma",
+        "colon adenocarcinoma",
+        "Pleural Epithelioid Mesothelioma",
+        "adult T acute lymphoblastic leukemia",
+        "colon carcinoma",
+        "amelanotic melanoma",
+        "chronic myelogenous leukemia",
+        "astrocytoma",
+        "prostate carcinoma",
+        "brain glioblastoma",
+        "Colon adenocarcinoma",
+        "melanoma",
+        "childhood T acute lymphoblastic leukemia",
+        "metastatic melanoma",
+        "non-small cell lung carcinoma",
+        "Ovarian Endometrioid Adenocarcinoma",
+        "adult acute myeloid leukemia",
+        "cutaneous melanoma"
       ],
       "instruments": [
         "LTQ Orbitrap XL ETD"
@@ -4318,34 +4318,34 @@
         "homo sapiens"
       ],
       "diseases": [
-        "Pleural Epithelioid Mesothelioma",
-        "brain glioblastoma",
-        "metastatic melanoma",
-        "Ovarian Endometrioid Adenocarcinoma",
-        "anaplastic large cell lymphoma",
-        "chronic myelogenous leukemia",
-        "astrocytoma",
-        "cutaneous melanoma",
-        "non-small cell lung carcinoma",
-        "renal cell carcinoma",
-        "ovarian serous cystadenocarcinoma",
+        "lung adenocarcinoma",
+        "breast adenocarcinoma",
         "clear cell renal carcinoma",
         "invasive ductal carcinoma",
-        "adult T acute lymphoblastic leukemia",
-        "prostate carcinoma",
-        "rectosigmoid adenocarcinoma",
-        "multiple myeloma",
-        "amelanotic melanoma",
-        "breast adenocarcinoma",
         "high grade ovarian serous adenocarcinoma",
-        "colon carcinoma",
-        "gliosarcoma",
-        "adult acute myeloid leukemia",
-        "colon adenocarcinoma",
+        "ovarian serous cystadenocarcinoma",
         "non-small cell lung adenocarcinoma",
+        "anaplastic large cell lymphoma",
+        "multiple myeloma",
+        "gliosarcoma",
+        "renal cell carcinoma",
+        "rectosigmoid adenocarcinoma",
+        "colon adenocarcinoma",
+        "Pleural Epithelioid Mesothelioma",
+        "adult T acute lymphoblastic leukemia",
+        "colon carcinoma",
+        "amelanotic melanoma",
+        "chronic myelogenous leukemia",
+        "astrocytoma",
+        "prostate carcinoma",
+        "brain glioblastoma",
         "melanoma",
-        "lung adenocarcinoma",
-        "childhood T acute lymphoblastic leukemia"
+        "childhood T acute lymphoblastic leukemia",
+        "metastatic melanoma",
+        "non-small cell lung carcinoma",
+        "Ovarian Endometrioid Adenocarcinoma",
+        "adult acute myeloid leukemia",
+        "cutaneous melanoma"
       ],
       "instruments": [
         "LTQ Orbitrap XL ETD"
@@ -4519,8 +4519,8 @@
         "breast cancer"
       ],
       "instruments": [
-        "LTQ Orbitrap Velos",
-        "Q Exactive"
+        "Q Exactive",
+        "LTQ Orbitrap Velos"
       ],
       "acquisition_methods": [
         "Data-dependent acquisition"
@@ -4662,8 +4662,8 @@
         "Homo sapiens"
       ],
       "diseases": [
-        "atrial fibrillation",
-        "trauma victims"
+        "trauma victims",
+        "atrial fibrillation"
       ],
       "instruments": [
         "Q Exactive HF"
@@ -4719,9 +4719,9 @@
         "homo sapiens"
       ],
       "diseases": [
-        "metastasizing cutaneous squamous cell carcinoma",
         "recessive dystrophyic epidermolysis bullosa cutaneous squamous cell carcinoma",
-        "Low-risk cutaneous squamous cell carcinoma"
+        "Low-risk cutaneous squamous cell carcinoma",
+        "metastasizing cutaneous squamous cell carcinoma"
       ],
       "instruments": [
         "Q Exactive Plus"
@@ -4779,42 +4779,42 @@
         "homo sapiens"
       ],
       "diseases": [
-        "Alzheimer's disease/Parkinson's disease9",
-        "Alzheimer's disease/Parkinson's disease",
-        "Alzheimer's disease/Parkinson's disease6",
+        "control5",
         "Alzheimer's disease/Parkinson's disease4",
-        "Alzheimer's disease 9",
+        "control",
+        "Parkinson's disease3",
         "control7",
-        "Alzheimer's disease0",
-        "Parkinson's disease7",
+        "Alzheimer's disease/Parkinson's disease7",
+        "control4",
+        "Alzheimer's disease/Parkinson's disease3",
         "Parkinson's disease5",
         "control3",
         "Alzheimer's disease 5",
-        "Alzheimer's disease/Parkinson's disease7",
-        "Alzheimer's disease/Parkinson's disease5",
-        "Alzheimer's disease 6",
-        "Parkinson's disease",
-        "Alzheimer's disease 3",
-        "control0",
-        "Parkinson's disease8",
-        "Parkinson's disease6",
         "Parkinson's disease4",
-        "Alzheimer's disease/Parkinson's disease3",
-        "control6",
         "Alzheimer's disease/Parkinson's disease8",
-        "control9",
-        "Parkinson's disease0",
-        "Parkinson's disease9",
-        "control8",
-        "control",
-        "Alzheimer's disease",
-        "Parkinson's disease3",
-        "control5",
-        "control4",
-        "Alzheimer's disease 8",
         "Alzheimer's disease 7",
+        "Alzheimer's disease 4",
+        "Parkinson's disease7",
         "Alzheimer's disease/Parkinson's disease0",
-        "Alzheimer's disease 4"
+        "Parkinson's disease9",
+        "control0",
+        "Alzheimer's disease 8",
+        "Alzheimer's disease/Parkinson's disease5",
+        "Alzheimer's disease0",
+        "Parkinson's disease",
+        "Alzheimer's disease/Parkinson's disease9",
+        "control8",
+        "Alzheimer's disease",
+        "Parkinson's disease6",
+        "Parkinson's disease0",
+        "control6",
+        "Alzheimer's disease 6",
+        "control9",
+        "Alzheimer's disease 9",
+        "Alzheimer's disease/Parkinson's disease",
+        "Parkinson's disease8",
+        "Alzheimer's disease/Parkinson's disease6",
+        "Alzheimer's disease 3"
       ],
       "instruments": [
         "Orbitrap Fusion"
@@ -4986,14 +4986,14 @@
         "Homo sapiens"
       ],
       "diseases": [
+        "breast carcinoma",
+        "fibrocystic disease",
         "metastatic carcinoma",
         "medulallary carcinoma",
-        "fibrocystic disease",
+        "primary breast tumor",
         "primary acantholytic squamous cell carcinoma",
-        "breast carcinoma",
         "ductal carcinoma",
-        "primary ductal carcinoma",
-        "primary breast tumor"
+        "primary ductal carcinoma"
       ],
       "instruments": [
         "Q Exactive"
@@ -5163,11 +5163,11 @@
         "Homo Sapiens"
       ],
       "diseases": [
-        "luminal B breast carcinoma",
-        "basal-like breast carcinoma",
         "Normal Breast-Like Subtype of Breast Carcinoma",
-        "breast cancer",
+        "luminal B breast carcinoma",
         "luminal A breast carcinoma",
+        "basal-like breast carcinoma",
+        "breast cancer",
         "HER2 Positive Breast Carcinoma"
       ],
       "instruments": [
@@ -5224,9 +5224,9 @@
         "Homo sapiens"
       ],
       "diseases": [
-        "compensated hypertrophy",
         "cardiac hypertrophy",
         "ischemic cardiomyopathy",
+        "compensated hypertrophy",
         "dilated cardiomyopathy"
       ],
       "instruments": [
@@ -5312,8 +5312,8 @@
         "homo sapiens"
       ],
       "diseases": [
-        "invasive high-grade bladder cancer",
-        "severe cystitis with reactive urothelial atypia"
+        "severe cystitis with reactive urothelial atypia",
+        "invasive high-grade bladder cancer"
       ],
       "instruments": [
         "Orbitrap Elite"
@@ -5454,11 +5454,11 @@
       "diseases": [
         "superficial spreading melanoma",
         "mucosal",
+        "lentigo maligna melanoma",
+        "unknown",
         "other",
         "acral lentiginous melanoma",
-        "unknown",
-        "nodular melanoma",
-        "lentigo maligna melanoma"
+        "nodular melanoma"
       ],
       "instruments": [
         "Q Exactive",
@@ -5543,9 +5543,9 @@
       ],
       "diseases": [],
       "instruments": [
+        "Orbitrap Fusion Lumos",
         "Q Exactive HF",
-        "Q Exactive Plus",
-        "Orbitrap Fusion Lumos"
+        "Q Exactive Plus"
       ],
       "acquisition_methods": [
         "Data-dependent acquisition"
@@ -5574,8 +5574,8 @@
         "Disease"
       ],
       "instruments": [
-        "LTQ Orbitrap Velos",
-        "Q Exactive"
+        "Q Exactive",
+        "LTQ Orbitrap Velos"
       ],
       "acquisition_methods": [
         "Data-dependent acquisition"
@@ -5631,13 +5631,13 @@
       ],
       "diseases": [
         "'Crohn''s Disease'",
-        "Gastric Carcinoma",
-        "Colon Adenoma",
+        "Ulcerative Colitis active stage",
         "Healthy control",
         "Irritable Bowel Syndrome",
+        "Colon Adenoma",
+        "Ulcerative Colitis remission stage",
         "'Crohn''s Disease Irritable Bowel Syndrome'",
-        "Ulcerative Colitis active stage",
-        "Ulcerative Colitis remission stage"
+        "Gastric Carcinoma"
       ],
       "instruments": [
         "Q Exactive HF"
@@ -6006,9 +6006,9 @@
         "homo sapiens"
       ],
       "diseases": [
+        "cirrhosis of liver",
         "non-alcoholic fatty liver disease",
-        "type II diabetes mellitus",
-        "cirrhosis of liver"
+        "type II diabetes mellitus"
       ],
       "instruments": [
         "Q Exactive HF-X"
@@ -6321,8 +6321,8 @@
       ],
       "diseases": [],
       "instruments": [
-        "Q Exactive Plus",
-        "TSQ Quantiva"
+        "TSQ Quantiva",
+        "Q Exactive Plus"
       ],
       "acquisition_methods": [
         "selected reaction monitoring"
@@ -6375,8 +6375,8 @@
         "Homo sapiens"
       ],
       "diseases": [
-        "Control",
-        "Autism Spectrum Disorder"
+        "Autism Spectrum Disorder",
+        "Control"
       ],
       "instruments": [
         "Orbitrap Elite"
@@ -6770,10 +6770,10 @@
         "Homo sapiens"
       ],
       "diseases": [
+        "epithelial cervix carcinoma",
         "gastric carcinoma",
         "Colorectal cancer",
-        "Hepatoblastoma",
-        "epithelial cervix carcinoma"
+        "Hepatoblastoma"
       ],
       "instruments": [
         "Orbitrap Fusion Lumos"
@@ -6831,8 +6831,8 @@
         "Homo sapiens"
       ],
       "diseases": [
-        "nontumorigenic",
-        "breast cancer"
+        "breast cancer",
+        "nontumorigenic"
       ],
       "instruments": [
         "LTQ"
@@ -7116,8 +7116,8 @@
         "Homo sapiens"
       ],
       "diseases": [
-        "non-small cell lung cancer",
-        "small cell lung cancer"
+        "small cell lung cancer",
+        "non-small cell lung cancer"
       ],
       "instruments": [
         " Orbitrap Fusion Lumos"
@@ -7229,9 +7229,9 @@
       "num_samples": 360,
       "num_columns": 32,
       "organisms": [
+        "plasmodium knowlesi",
         "plasmodium falciparum",
-        "Homo sapiens",
-        "plasmodium knowlesi"
+        "Homo sapiens"
       ],
       "diseases": [],
       "instruments": [
@@ -7314,8 +7314,8 @@
       "num_samples": 160,
       "num_columns": 31,
       "organisms": [
-        "plasmodium falciparum",
-        "plasmodium knowlesi"
+        "plasmodium knowlesi",
+        "plasmodium falciparum"
       ],
       "diseases": [],
       "instruments": [
@@ -7342,8 +7342,8 @@
       "num_samples": 160,
       "num_columns": 31,
       "organisms": [
-        "plasmodium falciparum",
-        "plasmodium knowlesi"
+        "plasmodium knowlesi",
+        "plasmodium falciparum"
       ],
       "diseases": [],
       "instruments": [
@@ -7370,8 +7370,8 @@
       "num_samples": 160,
       "num_columns": 31,
       "organisms": [
-        "plasmodium falciparum",
-        "plasmodium knowlesi"
+        "plasmodium knowlesi",
+        "plasmodium falciparum"
       ],
       "diseases": [],
       "instruments": [
@@ -7401,8 +7401,8 @@
         "Homo sapiens"
       ],
       "diseases": [
-        "metastatic melanoma tumor",
-        "malignant melanoma"
+        "malignant melanoma",
+        "metastatic melanoma tumor"
       ],
       "instruments": [
         " Q Exactive Plus"
@@ -7595,14 +7595,14 @@
       "num_samples": 720,
       "num_columns": 30,
       "organisms": [
-        "Bifidobacterium longum",
-        "Clostridium butyricum",
-        "lactobacillus",
-        "Escherichia coli K-12",
-        "clostridium",
+        "Anaerostipes caccae",
         "Bacteroides thetaiotaomicron",
+        "Escherichia coli K-12",
+        "Clostridium butyricum",
         "Blautia producta",
-        "Anaerostipes caccae"
+        "lactobacillus",
+        "clostridium",
+        "Bifidobacterium longum"
       ],
       "diseases": [],
       "instruments": [
@@ -7632,13 +7632,13 @@
         "Homo sapiens"
       ],
       "diseases": [
-        "Breast carcinoma",
         "Breast adenocarcinoma",
-        "Breast acantholytic squamous cell carcinoma",
         "Metastatic breast lobular carcinoma",
-        "Invasive breast carcinoma of no special type",
+        "Invasive breast lobular carcinoma",
         "Breast ductal carcinoma",
-        "Invasive breast lobular carcinoma"
+        "Invasive breast carcinoma of no special type",
+        "Breast carcinoma",
+        "Breast acantholytic squamous cell carcinoma"
       ],
       "instruments": [
         "Q Exactive Plus"
@@ -7699,8 +7699,8 @@
         "chronic myelogenous leukemia"
       ],
       "instruments": [
-        "Q Exactive Plus",
-        "Orbitrap Fusion Lumos"
+        "Orbitrap Fusion Lumos",
+        "Q Exactive Plus"
       ],
       "acquisition_methods": [
         "Data-dependent acquisition"
@@ -7785,8 +7785,8 @@
       ],
       "diseases": [],
       "instruments": [
-        "Q Exactive Plus",
-        "Orbitrap Fusion Lumos"
+        "Orbitrap Fusion Lumos",
+        "Q Exactive Plus"
       ],
       "acquisition_methods": [
         "Data-dependent acquisition"
@@ -7812,8 +7812,8 @@
         "Homo sapiens"
       ],
       "diseases": [
-        "colon cancer",
-        "adenocarcinoma"
+        "adenocarcinoma",
+        "colon cancer"
       ],
       "instruments": [
         "Q Exactive HF"
@@ -8349,16 +8349,16 @@
         "homo sapiens"
       ],
       "diseases": [
-        "decellularized_2",
-        "native_4",
-        "decellularized_5",
-        "decellularized_1",
-        "native_3",
-        "native_2",
-        "decellularized_3",
+        "native_5",
         "decellularized_4",
+        "decellularized_5",
+        "native_2",
+        "decellularized_1",
+        "native_4",
+        "native_3",
+        "decellularized_2",
         "native_1",
-        "native_5"
+        "decellularized_3"
       ],
       "instruments": [
         "LTQ"
@@ -8556,8 +8556,8 @@
       ],
       "diseases": [],
       "instruments": [
-        "TripleTOF 5600+",
-        "SCIEX instrument model"
+        "SCIEX instrument model",
+        "TripleTOF 5600+"
       ],
       "acquisition_methods": [
         "data-dependent acquisition"
@@ -8721,10 +8721,10 @@
       ],
       "diseases": [],
       "instruments": [
+        "Orbitrap Fusion Lumos",
         "Q Exactive HF",
-        "Q Exactive Plus",
         "timsTOF Pro",
-        "Orbitrap Fusion Lumos"
+        "Q Exactive Plus"
       ],
       "acquisition_methods": [
         "Data-dependent acquisition"
@@ -8752,9 +8752,9 @@
       "diseases": [],
       "instruments": [
         "Q Exactive HF",
-        "Q Exactive Plus",
+        "Q Exactive HF-X",
         "timsTOF Pro",
-        "Q Exactive HF-X"
+        "Q Exactive Plus"
       ],
       "acquisition_methods": [
         "Data-dependent acquisition"
@@ -8893,8 +8893,8 @@
       ],
       "diseases": [],
       "instruments": [
-        "Q Exactive HF",
-        "Q Exactive"
+        "Q Exactive",
+        "Q Exactive HF"
       ],
       "acquisition_methods": [
         "Data-dependent acquisition"
@@ -9028,206 +9028,206 @@
         "Homo sapiens"
       ],
       "diseases": [
-        "Gastric tubular adenocarcinoma",
-        "Acute biphenotypic leukemia",
-        "Childhood T lymphoblastic lymphoma",
-        "Acanthosis nigricans",
-        "Plasma cell myeloma",
-        "Alveolar rhabdomyosarcoma",
-        "Mantle cell lymphoma",
-        "Undifferentiated pleomorphic sarcoma",
-        "Papillary renal cell carcinoma",
-        "Esophageal adenocarcinoma",
-        "Extraskeletal myxoid chondrosarcoma",
-        "Liposarcoma",
-        "Acute promyelocytic leukemia",
-        "Barrett adenocarcinoma",
-        "Ovarian serous cystadenocarcinoma",
-        "Osteosarcoma",
-        "Primitive neuroectodermal tumor",
-        "Burkitt lymphoma",
-        "Diffuse large b-cell lymphoma activated b-cell type",
-        "Vaginal melanoma",
-        "Ovarian leiomyosarcoma",
-        "Biphasic synovial sarcoma",
-        "Ovarian granulosa cell tumor",
-        "Adult Burkitt leukemia",
-        "Hereditary spherocytosis",
-        "Vulvar squamous cell carcinoma",
-        "Kidney neoplasm",
-        "Human papillomavirus-related cervical squamous cell carcinoma",
-        "Pyriform fossa squamous cell carcinoma",
-        "Oligodendroglioma",
-        "Pharyngeal squamous cell carcinoma",
-        "Lymphoblastic lymphoma",
-        "Primary effusion lymphoma",
-        "Acute erythroid leukemia",
-        "Adult B acute lymphoblastic leukemia",
-        "Childhood hepatocellular carcinoma",
-        "Medulloblastoma, SHH-activated, TP53-wildtype",
-        "Lung mucoepidermoid carcinoma",
-        "Oral epithelial dysplasia",
-        "Ovarian adenocarcinoma",
-        "B acute lymphoblastic leukemia with TCF3-HLF rearrangement",
-        "Oral cavity squamous cell carcinoma",
-        "Pancreatic carcinoma",
-        "Pleural malignant mesothelioma",
-        "Acute myeloid leukemia",
-        "Childhood T acute lymphoblastic leukemia",
-        "Renal pelvis urothelial carcinoma",
-        "Gastric small cell carcinoma",
         "lung adenocarcinoma",
-        "Neuroblastoma",
-        "Lung papillary adenocarcinoma",
-        "Colorectal carcinoma",
-        "Hepatobiliary neoplasm",
-        "Breast carcinoma",
-        "Anaplastic large cell lymphoma, ALK-positive",
-        "Cystic fibrosis",
-        "Hairy cell leukemia",
-        "Vulvar leiomyosarcoma",
-        "Gingival squamous cell carcinoma",
-        "Adrenal cortex carcinoma",
-        "Ureter urothelial carcinoma",
-        "Endocervical adenocarcinoma",
-        "Hepatitis C infection",
-        "B acute lymphoblastic leukemia",
-        "Down syndrome",
-        "Adult acute monocytic leukemia",
-        "Endometrioid stromal sarcoma",
-        "Cervical squamous cell carcinoma",
-        "Skin squamous cell carcinoma",
-        "Buccal mucosa squamous cell carcinoma",
-        "Cutaneous melanoma",
-        "Gastric carcinoma",
-        "Prostate carcinoma",
-        "Embryonal rhabdomyosarcoma",
-        "Pancreatic ductal adenocarcinoma",
-        "Thyroid gland squamous cell carcinoma",
-        "Lung large cell carcinoma",
-        "Rectal adenocarcinoma",
-        "Thyroid gland follicular carcinoma",
-        "Ovarian mucinous adenocarcinoma",
-        "Acute myeloid leukemia without maturation",
-        "Poorly differentiated thyroid gland carcinoma",
-        "Tonsillar squamous cell carcinoma",
-        "Endometrial adenocarcinoma",
-        "Intrahepatic cholangiocarcinoma",
-        "Gliosarcoma",
-        "Gastric signet ring cell adenocarcinoma",
-        "Thoracic SMARCA4-deficient undifferentiated tumor",
-        "Medulloblastoma, SHH-activated, TP53-mutant",
-        "Lung non-small cell carcinoma",
-        "Cecum adenocarcinoma",
-        "Vulvar melanoma",
-        "Childhood B acute lymphoblastic leukemia",
-        "Hodgkin lymphoma",
-        "Alveolar ridge squamous cell carcinoma",
-        "Testicular embryonal carcinoma",
-        "Askin tumor",
-        "Adult acute myelomonocytic leukemia",
-        "Pancreatic undifferentiated carcinoma",
-        "Lung carcinoma",
-        "Cervical carcinoma",
-        "Uterine corpus sarcoma",
-        "Lung adenosquamous carcinoma",
-        "Anaplastic astrocytoma",
-        "Hypopharyngeal squamous cell carcinoma",
-        "Duodenal adenocarcinoma",
-        "Clear cell renal cell carcinoma",
-        "Adult t acute lymphoblastic leukemia",
-        "Vulvar carcinoma",
-        "Pancreatic somatostatinoma",
-        "glioblastoma",
-        "Parotid gland mucoepidermoid carcinoma",
-        "Gestational choriocarcinoma",
-        "Head and neck squamous cell carcinoma",
-        "Gastric choriocarcinoma",
-        "Childhood acute myeloid leukemia",
-        "Follicular lymphoma",
-        "Floor of mouth squamous cell carcinoma",
-        "Esophageal squamous cell carcinoma",
-        "Acute promyelocytic leukemia with PML-RARA",
-        "B-cell non-hodgkin lymphoma",
-        "Thyroid gland anaplastic carcinoma",
-        "Colon carcinoma",
-        "Pleural epithelioid mesothelioma",
-        "Endometrial carcinoma",
-        "Gallbladder undifferentiated carcinoma",
-        "Thyroid gland papillary carcinoma",
-        "Diffuse large B-cell lymphoma germinal center B-cell type",
-        "Endometrial adenosquamous carcinoma",
-        "Bladder carcinoma",
-        "Sezary syndrome",
-        "Laryngeal squamous cell carcinoma",
-        "Uterine corpus leiomyosarcoma",
-        "Childhood acute myeloid leukemia with maturation",
-        "Gastric adenocarcinoma",
-        "Ovarian endometrioid adenocarcinoma",
-        "Splenic marginal zone lymphoma",
-        "Lung squamous cell carcinoma",
-        "Brain astrocytoma",
-        "Rhabdomyosarcoma",
-        "Diffuse large b-cell lymphoma germinal center b-cell type",
-        "Breast acantholytic squamous cell carcinoma",
-        "melanoma",
-        "Human papillomavirus-independent cervical squamous cell carcinoma",
-        "Embryonal carcinoma",
-        "invasive breast carcinoma",
-        "Ovarian carcinoma",
-        "Invasive breast lobular carcinoma",
-        "Dedifferentiated chondrosarcoma",
-        "Adult acute myeloid leukemia",
-        "Breast adenocarcinoma",
-        "Hereditary thyroid gland medullary carcinoma",
-        "Ovarian serous adenocarcinoma",
-        "Ewing sarcoma",
-        "Ovarian clear cell adenocarcinoma",
-        "B-cell prolymphocytic leukemia",
-        "Lung small cell carcinoma",
-        "Chronic eosinophilic leukemia, not otherwise specified",
-        "Breast ductal carcinoma",
-        "BRCA1-related cancer predisposition",
-        "Sacral chordoma",
-        "Natural killer cell lymphoblastic leukemia/lymphoma",
-        "Epithelioid sarcoma",
-        "Tongue adenosquamous carcinoma",
-        "Benign prostatic hyperplasia",
-        "Fibrosarcoma",
-        "Pancreatic adenosquamous carcinoma",
-        "Gastroesophageal junction adenocarcinoma",
-        "Medulloblastoma, non-WNT/non-SHH, group 3",
         "Adult hepatocellular carcinoma",
-        "Erythroleukemia",
-        "Recurrent bladder carcinoma",
-        "Tongue squamous cell carcinoma",
-        "Lung giant cell carcinoma",
-        "Primary cutaneous t-cell non-hodgkin lymphoma",
-        "Cervical small cell carcinoma",
-        "Primary mediastinal large B-cell lymphoma",
-        "Gastric fundus carcinoma",
-        "Lung sarcomatoid carcinoma",
-        "Amelanotic melanoma",
-        "Rhabdoid tumor of the kidney",
-        "BRCA2-related cancer predisposition",
-        "Bronchogenic carcinoma",
-        "Lung carcinoid tumor",
-        "Submandibular gland squamous cell carcinoma",
+        "Diffuse large b-cell lymphoma activated b-cell type",
+        "Lung large cell carcinoma",
+        "Fibrosarcoma",
         "Minimally invasive lung adenocarcinoma",
-        "Renal cell carcinoma",
-        "Adrenal gland neuroblastoma",
-        "colon adenocarcinoma",
-        "Hepatoblastoma",
-        "Pancreatic adenocarcinoma",
-        "Childhood acute monocytic leukemia",
-        "Prostate small cell carcinoma",
-        "Chondrosarcoma",
-        "Diffuse large b-cell lymphoma",
-        "High grade ovarian serous adenocarcinoma",
+        "Barrett adenocarcinoma",
+        "Lung giant cell carcinoma",
+        "Buccal mucosa squamous cell carcinoma",
         "Ovarian mixed germ cell tumor",
-        "Pleural sarcomatoid mesothelioma",
+        "Oligodendroglioma",
+        "Gestational choriocarcinoma",
+        "Thyroid gland follicular carcinoma",
+        "Rhabdoid tumor of the kidney",
+        "Thyroid gland papillary carcinoma",
+        "Benign prostatic hyperplasia",
+        "Cervical small cell carcinoma",
+        "Recurrent bladder carcinoma",
+        "Acute promyelocytic leukemia with PML-RARA",
+        "Head and neck squamous cell carcinoma",
+        "Parotid gland mucoepidermoid carcinoma",
+        "Invasive breast lobular carcinoma",
+        "Adult acute monocytic leukemia",
+        "Epithelioid sarcoma",
+        "Ovarian leiomyosarcoma",
+        "Undifferentiated pleomorphic sarcoma",
+        "Gastric adenocarcinoma",
+        "Primary effusion lymphoma",
+        "Childhood hepatocellular carcinoma",
+        "Oral cavity squamous cell carcinoma",
+        "Burkitt lymphoma",
+        "Vulvar melanoma",
+        "Diffuse large B-cell lymphoma germinal center B-cell type",
+        "Uterine corpus leiomyosarcoma",
+        "Oral epithelial dysplasia",
+        "Submandibular gland squamous cell carcinoma",
+        "Colon carcinoma",
+        "Childhood acute myeloid leukemia",
+        "Amelanotic melanoma",
+        "Dedifferentiated chondrosarcoma",
+        "Medulloblastoma, SHH-activated, TP53-mutant",
+        "Lung sarcomatoid carcinoma",
+        "Hereditary thyroid gland medullary carcinoma",
+        "Primary cutaneous t-cell non-hodgkin lymphoma",
+        "Uterine corpus sarcoma",
+        "Splenic marginal zone lymphoma",
+        "Hypopharyngeal squamous cell carcinoma",
+        "Adult acute myeloid leukemia",
+        "Prostate carcinoma",
+        "Ovarian granulosa cell tumor",
+        "Floor of mouth squamous cell carcinoma",
+        "B-cell non-hodgkin lymphoma",
+        "Hereditary spherocytosis",
+        "Esophageal squamous cell carcinoma",
+        "Plasma cell myeloma",
+        "Lung small cell carcinoma",
+        "Lung carcinoma",
+        "Adrenal cortex carcinoma",
+        "Erythroleukemia",
+        "Childhood T lymphoblastic lymphoma",
+        "Anaplastic large cell lymphoma, ALK-positive",
+        "Renal pelvis urothelial carcinoma",
+        "Prostate small cell carcinoma",
+        "Osteosarcoma",
+        "Pancreatic carcinoma",
+        "Liposarcoma",
+        "Pyriform fossa squamous cell carcinoma",
+        "Breast acantholytic squamous cell carcinoma",
+        "Tongue squamous cell carcinoma",
+        "Pancreatic undifferentiated carcinoma",
+        "Adult B acute lymphoblastic leukemia",
+        "Endometrioid stromal sarcoma",
+        "Lung carcinoid tumor",
+        "Biphasic synovial sarcoma",
+        "Thyroid gland anaplastic carcinoma",
+        "Adult t acute lymphoblastic leukemia",
+        "Vulvar leiomyosarcoma",
+        "Tongue adenosquamous carcinoma",
+        "Human papillomavirus-related cervical squamous cell carcinoma",
+        "Extraskeletal myxoid chondrosarcoma",
+        "Vulvar squamous cell carcinoma",
+        "Tonsillar squamous cell carcinoma",
+        "invasive breast carcinoma",
+        "Lymphoblastic lymphoma",
+        "Papillary renal cell carcinoma",
+        "Gastric signet ring cell adenocarcinoma",
+        "Colorectal carcinoma",
+        "Neuroblastoma",
+        "melanoma",
+        "Askin tumor",
+        "Laryngeal squamous cell carcinoma",
+        "Diffuse large b-cell lymphoma germinal center b-cell type",
+        "Acute promyelocytic leukemia",
+        "Rhabdomyosarcoma",
+        "Follicular lymphoma",
+        "Gastric carcinoma",
+        "Cutaneous melanoma",
+        "Gastric small cell carcinoma",
+        "Vulvar carcinoma",
+        "Cervical squamous cell carcinoma",
+        "Lung squamous cell carcinoma",
+        "Childhood T acute lymphoblastic leukemia",
+        "Kidney neoplasm",
+        "Gastric choriocarcinoma",
+        "Pharyngeal squamous cell carcinoma",
+        "Primary mediastinal large B-cell lymphoma",
+        "Endocervical adenocarcinoma",
+        "Sacral chordoma",
+        "Lung adenosquamous carcinoma",
+        "Gliosarcoma",
+        "Human papillomavirus-independent cervical squamous cell carcinoma",
+        "Adult Burkitt leukemia",
+        "Chronic eosinophilic leukemia, not otherwise specified",
+        "BRCA1-related cancer predisposition",
+        "Down syndrome",
+        "Breast adenocarcinoma",
+        "Hodgkin lymphoma",
+        "Testicular embryonal carcinoma",
+        "Brain astrocytoma",
+        "Breast ductal carcinoma",
+        "Diffuse large b-cell lymphoma",
+        "Acute myeloid leukemia",
+        "Cervical carcinoma",
+        "Pleural epithelioid mesothelioma",
+        "Poorly differentiated thyroid gland carcinoma",
+        "Medulloblastoma, non-WNT/non-SHH, group 3",
+        "Adrenal gland neuroblastoma",
+        "Childhood acute myeloid leukemia with maturation",
+        "Renal cell carcinoma",
+        "Pancreatic adenosquamous carcinoma",
+        "Thyroid gland squamous cell carcinoma",
+        "Lung non-small cell carcinoma",
+        "Acute biphenotypic leukemia",
+        "Acute myeloid leukemia without maturation",
+        "Embryonal carcinoma",
+        "Gallbladder undifferentiated carcinoma",
+        "Childhood B acute lymphoblastic leukemia",
+        "Breast carcinoma",
+        "Pleural malignant mesothelioma",
+        "Chondrosarcoma",
+        "Hairy cell leukemia",
+        "Endometrial adenosquamous carcinoma",
         "Pleural biphasic mesothelioma",
-        "Chronic myelogenous leukemia"
+        "Hepatobiliary neoplasm",
+        "Vaginal melanoma",
+        "Intrahepatic cholangiocarcinoma",
+        "Acute erythroid leukemia",
+        "Medulloblastoma, SHH-activated, TP53-wildtype",
+        "B acute lymphoblastic leukemia",
+        "glioblastoma",
+        "Endometrial carcinoma",
+        "Ovarian endometrioid adenocarcinoma",
+        "Embryonal rhabdomyosarcoma",
+        "Bronchogenic carcinoma",
+        "Pancreatic ductal adenocarcinoma",
+        "Acanthosis nigricans",
+        "Alveolar ridge squamous cell carcinoma",
+        "Pancreatic adenocarcinoma",
+        "Cystic fibrosis",
+        "Duodenal adenocarcinoma",
+        "Lung mucoepidermoid carcinoma",
+        "Adult acute myelomonocytic leukemia",
+        "B acute lymphoblastic leukemia with TCF3-HLF rearrangement",
+        "Ovarian mucinous adenocarcinoma",
+        "colon adenocarcinoma",
+        "High grade ovarian serous adenocarcinoma",
+        "Childhood acute monocytic leukemia",
+        "B-cell prolymphocytic leukemia",
+        "Ovarian serous cystadenocarcinoma",
+        "Ovarian carcinoma",
+        "BRCA2-related cancer predisposition",
+        "Gastroesophageal junction adenocarcinoma",
+        "Ewing sarcoma",
+        "Skin squamous cell carcinoma",
+        "Bladder carcinoma",
+        "Anaplastic astrocytoma",
+        "Lung papillary adenocarcinoma",
+        "Ovarian clear cell adenocarcinoma",
+        "Thoracic SMARCA4-deficient undifferentiated tumor",
+        "Esophageal adenocarcinoma",
+        "Gastric tubular adenocarcinoma",
+        "Primitive neuroectodermal tumor",
+        "Gastric fundus carcinoma",
+        "Ovarian serous adenocarcinoma",
+        "Endometrial adenocarcinoma",
+        "Chronic myelogenous leukemia",
+        "Cecum adenocarcinoma",
+        "Alveolar rhabdomyosarcoma",
+        "Pleural sarcomatoid mesothelioma",
+        "Natural killer cell lymphoblastic leukemia/lymphoma",
+        "Mantle cell lymphoma",
+        "Ovarian adenocarcinoma",
+        "Rectal adenocarcinoma",
+        "Pancreatic somatostatinoma",
+        "Hepatoblastoma",
+        "Gingival squamous cell carcinoma",
+        "Ureter urothelial carcinoma",
+        "Clear cell renal cell carcinoma",
+        "Hepatitis C infection",
+        "Sezary syndrome"
       ],
       "instruments": [
         "TripleTOF 6600"
@@ -9310,8 +9310,8 @@
         "Homo sapiens"
       ],
       "diseases": [
-        "Healthy control",
-        "Rheumatic heart disease"
+        "Rheumatic heart disease",
+        "Healthy control"
       ],
       "instruments": [
         "TripleTOF 6600"
@@ -9531,9 +9531,9 @@
         "Homo sapiens"
       ],
       "diseases": [
+        "COVID-19",
         "Monkeypox",
-        "Healthy control",
-        "COVID-19"
+        "Healthy control"
       ],
       "instruments": [
         "ZenoTOF 7600"
@@ -9727,8 +9727,8 @@
         "Homo sapiens"
       ],
       "diseases": [
-        "Blast phase chronic myelogenous leukemia, BCR-ABL1 positive",
-        "lung adenocarcinoma"
+        "lung adenocarcinoma",
+        "Blast phase chronic myelogenous leukemia, BCR-ABL1 positive"
       ],
       "instruments": [
         "timsTOF Pro"
@@ -9785,10 +9785,10 @@
       ],
       "diseases": [],
       "instruments": [
-        "Q Exactive",
         "Orbitrap Elite",
-        "Q Exactive Plus",
         "Orbitrap Fusion",
+        "Q Exactive Plus",
+        "Q Exactive",
         "Orbitrap Fusion Lumos",
         "Orbitrap Eclipse"
       ],
@@ -9817,8 +9817,8 @@
       ],
       "diseases": [],
       "instruments": [
-        "Orbitrap Eclipse",
-        "Q Exactive HF"
+        "Q Exactive HF",
+        "Orbitrap Eclipse"
       ],
       "acquisition_methods": [
         "Data-dependent acquisition"
