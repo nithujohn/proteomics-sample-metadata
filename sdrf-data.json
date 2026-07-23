@@ -1,14 +1,14 @@
 {
   "statistics": {
-    "total_datasets": 400,
-    "total_accessions": 382,
-    "total_sdrf_files": 400,
-    "split_accessions": 13,
-    "total_samples": 123006,
-    "generated_at": "2026-07-22T07:43:37.272910Z",
+    "total_datasets": 442,
+    "total_accessions": 422,
+    "total_sdrf_files": 442,
+    "split_accessions": 15,
+    "total_samples": 124617,
+    "generated_at": "2026-07-23T07:45:14.160002Z",
     "source_repository_url": "https://github.com/bigbio/sdrf-annotated-datasets",
     "organisms": {
-      "Homo sapiens": 91061,
+      "Homo sapiens": 92672,
       "homo sapiens": 10281,
       "Mus musculus": 6965,
       "Homo Sapiens": 3873,
@@ -51,7 +51,7 @@
       "liver": 4993,
       "Kidney": 4937,
       "blood plasma": 4903,
-      "ovary": 3576,
+      "ovary": 3580,
       "brain": 2974,
       "dorsolateral prefrontal cortex": 2932,
       "bone marrow": 2753,
@@ -65,6 +65,7 @@
       "Cell lysate": 1505,
       "plasma": 1414,
       "pleural effusion": 1361,
+      "semen": 1335,
       "stomach": 1244,
       "cerebrospinal fluid": 1150,
       "primary human medulloblastomas": 1028,
@@ -93,8 +94,7 @@
       "Ascending Colon": 345,
       "Liver": 323,
       "cultured cell": 300,
-      "embryo": 296,
-      "prostate gland": 290
+      "embryo": 296
     },
     "diseases": {
       "cervical adenocarcinoma": 4394,
@@ -111,11 +111,11 @@
       "colorectal cancer": 1755,
       "Hepatocellular carcinoma": 1488,
       "Healthy control": 1366,
-      "obesity": 1272,
+      "obesity": 1284,
       "primary human medulloblastomas": 1028,
       "stomach cancer": 1016,
       "endocervical adenocarcinoma": 983,
-      "COVID-19": 900,
+      "COVID-19": 920,
       "Colorectal adenocarcinoma": 874,
       "leptomeningeal melanoma metastases": 840,
       "Colon Adenocarcinoma": 825,
@@ -160,6 +160,7 @@
       "cardiac": 1803,
       "plant cell": 1560,
       "Prokaryotic cell": 1535,
+      "sperm": 1307,
       "schizont": 844,
       "melanoma cell": 764,
       "fibroblast": 652,
@@ -197,30 +198,29 @@
       "Human Bone Osteosarcoma Epithelial Cells": 84,
       "T lymphocyte": 81,
       "cell culture": 76,
-      "Bone Marrow": 72,
-      "cerebellar": 72
+      "Bone Marrow": 72
     },
     "instruments": {
-      "Q Exactive": 18277,
-      "Orbitrap Fusion Lumos": 18128,
-      "Q Exactive Plus": 11495,
-      "Orbitrap Exploris 480": 9453,
-      "Q Exactive HF": 9043,
-      "LTQ Orbitrap Velos": 8712,
-      "TripleTOF 6600": 7857,
-      "Orbitrap Astral": 6606,
-      "Orbitrap Fusion": 4733,
+      "Q Exactive": 18388,
+      "Orbitrap Fusion Lumos": 18248,
+      "Q Exactive Plus": 11635,
+      "Q Exactive HF": 9637,
+      "Orbitrap Exploris 480": 9523,
+      "LTQ Orbitrap Velos": 8743,
+      "TripleTOF 6600": 8020,
+      "Orbitrap Astral": 6663,
+      "Orbitrap Fusion": 4770,
       "orbitrap": 4359,
-      "Orbitrap Eclipse": 4132,
+      "Orbitrap Eclipse": 4260,
       "Orbitrap Elite": 4007,
       "timsTOF SCP": 3684,
       "Q Exactive HF-X": 2803,
-      "LTQ Orbitrap": 1664,
+      "LTQ Orbitrap": 1727,
       "LTQ Orbitrap Velos Pro": 1528,
       "LTQ Orbitrap XL": 1442,
       "TripleTOF 5600": 1092,
       "LTQ Orbitrap XL ETD": 890,
-      "timsTOF Pro": 778,
+      "timsTOF Pro": 851,
       "timsTOF Pro 2": 657,
       "TripleTOF 5600+": 420,
       "LTQ": 162,
@@ -239,51 +239,53 @@
       " Q Exactive Plus": 30,
       " Orbitrap Elite": 27,
       " Orbitrap Fusion Lumos": 24,
+      "QTRAP 6500+": 24,
       "LTQ Velos": 10,
       "timsTOF HT": 10,
       " Q Exactive": 6,
       "ZenoTOF 8600": 6
     },
     "labels": {
-      "label free sample": 57243,
-      "TMT126": 4722,
+      "label free sample": 58289,
+      "TMT126": 4809,
       "Label free": 4395,
-      "TMT131": 3618,
+      "TMT131": 3691,
+      "TMT129N": 3492,
       "TMT127N": 3488,
-      "TMT129N": 3480,
-      "TMT128N": 3463,
-      "TMT128C": 3457,
+      "TMT128N": 3475,
+      "TMT128C": 3469,
+      "TMT130C": 3465,
       "TMT129C": 3453,
-      "TMT130C": 3453,
-      "TMT130N": 3162,
-      "TMT127C": 2909,
+      "TMT130N": 3174,
+      "TMT127C": 2921,
       "SILAC heavy": 2726,
       "SILAC": 1946,
-      "TMT127": 1595,
-      "TMT128": 1595,
-      "TMT129": 1595,
-      "TMT130": 1547,
+      "TMT127": 1670,
+      "TMT128": 1669,
+      "TMT129": 1669,
+      "TMT130": 1621,
       "metabolic label": 1477,
       "TMT131N": 1166
     },
     "acquisition_methods": {
-      "Data-dependent acquisition": 85541,
-      "Data-independent acquisition": 22450,
-      "data-dependent acquisition": 12539,
+      "Data-dependent acquisition": 86785,
+      "Data-independent acquisition": 22746,
+      "data-dependent acquisition": 12586,
       "data-independent acquisition": 2102,
       "selected reaction monitoring": 205,
       "Data-Independent Acquisition": 132,
       "Data-Dependent Acquisition": 31,
+      "Selected reaction monitoring": 24,
       "DDA": 6
     },
     "modifications": {
-      "Oxidation": 26318,
+      "Oxidation": 26902,
+      "Acetyl": 19863,
       "TMT6plex": 19557,
-      "Acetyl": 18925,
-      "Phospho": 11146,
-      "Carbamidomethyl": 7444,
+      "Phospho": 11170,
+      "Carbamidomethyl": 7551,
       " TMT6plex": 4176,
-      "Deamidated": 2460,
+      "Deamidated": 2469,
       "TMT": 2424,
       "cyclization": 2348,
       "Met-loss+Acetyl": 1366,
@@ -309,9 +311,9 @@
       "not aplicable": 107
     },
     "cleavage_agents": {
-      "Trypsin": 89412,
-      "Lys-C": 21642,
-      "Trypsin/P": 7304,
+      "Trypsin": 90863,
+      "Lys-C": 21762,
+      "Trypsin/P": 7342,
       "unspecific cleavage": 1881,
       "Unspecific cleavage": 716,
       "N-glycosidase F": 474,
@@ -326,21 +328,22 @@
       "Arg-C": 36,
       "Glutamyl endopeptidase": 36,
       "Lys-C/P": 22,
-      "no cleavage": 5
+      "no cleavage": 5,
+      "peptidase K": 2
     },
     "experiment_types": {
-      "DDA": 337,
-      "DIA": 60,
-      "SRM/MRM": 3
+      "DDA": 375,
+      "DIA": 63,
+      "SRM/MRM": 4
     },
     "label_types": {
-      "Label-free": 320,
-      "TMT": 44,
+      "Label-free": 358,
+      "TMT": 48,
       "SILAC": 26,
       "iTRAQ": 10
     },
     "templates": {
-      "unknown": 400
+      "unknown": 442
     }
   },
   "datasets": [
@@ -388,8 +391,8 @@
       "num_samples": 96,
       "num_columns": 35,
       "organisms": [
-        "mus musculus",
-        "homo sapiens"
+        "homo sapiens",
+        "mus musculus"
       ],
       "diseases": [
         "melanoma"
@@ -450,8 +453,8 @@
         "homo sapiens"
       ],
       "diseases": [
-        "metastatic malignant neoplasm in the liver",
-        "colon carcinoma"
+        "colon carcinoma",
+        "metastatic malignant neoplasm in the liver"
       ],
       "instruments": [
         "LTQ Orbitrap XL"
@@ -480,8 +483,8 @@
         "homo sapiens"
       ],
       "diseases": [
-        "multiple myeloma",
-        "monoclonal gammopathy"
+        "monoclonal gammopathy",
+        "multiple myeloma"
       ],
       "instruments": [
         "LTQ Orbitrap XL",
@@ -623,10 +626,10 @@
         "Homo sapiens"
       ],
       "diseases": [
-        "Colon Mucinous Adenocarcinoma",
         "Rectal Mucinous Adenocarcinoma",
-        "Rectal Adenocarcinoma",
-        "Colon Adenocarcinoma"
+        "Colon Adenocarcinoma",
+        "Colon Mucinous Adenocarcinoma",
+        "Rectal Adenocarcinoma"
       ],
       "instruments": [
         "LTQ Orbitrap Velos"
@@ -713,8 +716,8 @@
         "Homo sapiens"
       ],
       "diseases": [
-        "ovarian high grade serous adenocarcinoma",
-        "Non-Tumor"
+        "Non-Tumor",
+        "ovarian high grade serous adenocarcinoma"
       ],
       "instruments": [
         "Q Exactive"
@@ -2104,8 +2107,8 @@
         "Homo sapiens"
       ],
       "diseases": [
-        "rectal mucinous adenocarcinoma",
-        "rectum adenocarcinoma"
+        "rectum adenocarcinoma",
+        "rectal mucinous adenocarcinoma"
       ],
       "instruments": [
         "LTQ Orbitrap Velos"
@@ -2163,11 +2166,11 @@
         "Homo sapiens"
       ],
       "diseases": [
-        "Mlignant Melanoma",
         "Breast Cancer",
-        "Glioblastoma",
         "Breast Adenocarcinoma",
-        "Pancreatic Carcinoma"
+        "Mlignant Melanoma",
+        "Pancreatic Carcinoma",
+        "Glioblastoma"
       ],
       "instruments": [
         "LTQ Orbitrap Velos"
@@ -2267,6 +2270,33 @@
       "version": "unknown"
     },
     {
+      "id": "PXD002367",
+      "file": "PXD002367.sdrf.tsv",
+      "filename": "PXD002367.sdrf.tsv",
+      "path": "datasets/PXD002367/PXD002367.sdrf.tsv",
+      "accession_path": "datasets/PXD002367",
+      "github_url": "https://github.com/bigbio/sdrf-annotated-datasets/blob/main/datasets/PXD002367/PXD002367.sdrf.tsv",
+      "accession_github_url": "https://github.com/bigbio/sdrf-annotated-datasets/tree/main/datasets/PXD002367",
+      "raw_url": "https://raw.githubusercontent.com/bigbio/sdrf-annotated-datasets/main/datasets/PXD002367/PXD002367.sdrf.tsv",
+      "num_samples": 63,
+      "num_columns": 33,
+      "organisms": [
+        "Homo sapiens"
+      ],
+      "diseases": [],
+      "instruments": [
+        "LTQ Orbitrap"
+      ],
+      "acquisition_methods": [
+        "Data-dependent acquisition"
+      ],
+      "experiment_type": "DDA",
+      "label_type": "Label-free",
+      "accession_file_count": 1,
+      "template": "unknown",
+      "version": "unknown"
+    },
+    {
       "id": "PXD002370",
       "file": "PXD002370.sdrf.tsv",
       "filename": "PXD002370.sdrf.tsv",
@@ -2308,16 +2338,16 @@
         "Homo sapiens"
       ],
       "diseases": [
-        "Lung adenocarcinoma",
-        "Hepatoblastoma",
         "Prostate carcinoma",
-        "Chronic myelogenous leukemia, BCR-ABL1 positive",
-        "Osteosarcoma",
-        "Glioblastoma",
-        "Childhood T acute lymphoblastic leukemia",
-        "Colon carcinoma",
         "Invasive ductal carcinoma, not otherwise specified",
-        "Human papillomavirus-related endocervical adenocarcinoma"
+        "Lung adenocarcinoma",
+        "Glioblastoma",
+        "Human papillomavirus-related endocervical adenocarcinoma",
+        "Osteosarcoma",
+        "Childhood T acute lymphoblastic leukemia",
+        "Chronic myelogenous leukemia, BCR-ABL1 positive",
+        "Hepatoblastoma",
+        "Colon carcinoma"
       ],
       "instruments": [
         "LTQ Orbitrap Velos"
@@ -2598,27 +2628,27 @@
         "Homo sapiens"
       ],
       "diseases": [
-        "Anaplastic large cell lymphoma",
-        "Burkitt's lymphoma",
-        "plasmacytoma",
-        "Burkitt's lymphoma (American)",
-        "Nodular lymphocyte predominant Hodgkin lymphoma",
-        "Multiple Myeloma",
-        "lymphoma",
         "Transformed follicular lymphoma",
+        "Classical Hodgkin lymphoma",
         "cutaneous T cell lymphoma",
-        "Primary mediastinal large B-cell lymphoma",
-        "Mantle cell lymphoma",
-        "acute T cell leukemia",
-        "malignant non-Hodgkin's lymphoma",
-        "Burkitt lymphoma",
-        "diffuse histiocytic lymphoma",
+        "Nodular lymphocyte predominant Hodgkin lymphoma",
         "Anaplastic large cell lymphoma,",
-        "follicular lymphoma",
-        "Diffuse large B-cell lymphoma",
-        "Sezary Syndrome",
+        "lymphoma",
+        "Burkitt lymphoma",
         "Aggressive NK-cell leukemia",
-        "Classical Hodgkin lymphoma"
+        "Anaplastic large cell lymphoma",
+        "Mantle cell lymphoma",
+        "Primary mediastinal large B-cell lymphoma",
+        "Burkitt's lymphoma (American)",
+        "Multiple Myeloma",
+        "Burkitt's lymphoma",
+        "diffuse histiocytic lymphoma",
+        "follicular lymphoma",
+        "Sezary Syndrome",
+        "malignant non-Hodgkin's lymphoma",
+        "Diffuse large B-cell lymphoma",
+        "acute T cell leukemia",
+        "plasmacytoma"
       ],
       "instruments": [
         "LTQ Orbitrap XL"
@@ -2677,12 +2707,12 @@
         "Homo sapiens"
       ],
       "diseases": [
-        "high grade serous ovarian cancer",
-        "epithelial ovarian cancer"
+        "epithelial ovarian cancer",
+        "high grade serous ovarian cancer"
       ],
       "instruments": [
-        "Q Exactive",
-        "Q Exactive HF-X"
+        "Q Exactive HF-X",
+        "Q Exactive"
       ],
       "acquisition_methods": [
         "Data-dependent acquisition"
@@ -2708,37 +2738,37 @@
         "Homo sapiens"
       ],
       "diseases": [
-        "renal cell carcinoma",
-        "renal adenocarcinoma",
-        "mesothelioma",
-        "plasmacytoma",
-        "lung carcinoma",
         "acute T lymphoblastic leukaemia",
-        "astrocytoma",
-        "immunoblastic large cell lymphoma",
-        "clear cell renal carcinoma",
-        "chronic myelogenic leukemia",
-        "ovarian serous cystadenocarcinoma",
-        "breast carcinoma",
+        "large cell lung carcinoma",
+        "mesothelioma",
+        "non-small cell lung carcinoma",
+        "glioma",
+        "renal carcinoma",
         "malignant melanoma",
-        "skin cutaneous melanoma",
+        "renal cell carcinoma",
+        "acute lymphoblastic leukemia",
+        "immunoblastic large cell lymphoma",
+        "promyelocytic leukemia",
+        "astrocytoma",
+        "renal adenocarcinoma",
+        "renal cell adenocarcinoma",
+        "lung carcinoma",
         "breast adenocarcinoma",
+        "ovarian carcinoma",
+        "chronic myelogenic leukemia",
+        "breast carcinoma",
+        "renal clear cell adenocarcinoma",
         "glioblastoma",
-        "prostate adenocarcinoma",
-        "ovarian adenocarcinoma",
         "melanoma",
         "breast ductal adenocarcinoma",
-        "ovarian carcinoma",
-        "renal clear cell adenocarcinoma",
-        "colon carcinoma",
         "colon adenocarcinoma",
-        "renal cell adenocarcinoma",
-        "acute lymphoblastic leukemia",
-        "renal carcinoma",
-        "glioma",
-        "large cell lung carcinoma",
-        "promyelocytic leukemia",
-        "non-small cell lung carcinoma"
+        "colon carcinoma",
+        "ovarian serous cystadenocarcinoma",
+        "skin cutaneous melanoma",
+        "prostate adenocarcinoma",
+        "clear cell renal carcinoma",
+        "ovarian adenocarcinoma",
+        "plasmacytoma"
       ],
       "instruments": [
         "TripleTOF 5600"
@@ -2884,6 +2914,34 @@
       "diseases": [],
       "instruments": [
         "Q Exactive Plus"
+      ],
+      "acquisition_methods": [
+        "Data-dependent acquisition"
+      ],
+      "experiment_type": "DDA",
+      "label_type": "Label-free",
+      "accession_file_count": 1,
+      "template": "unknown",
+      "version": "unknown"
+    },
+    {
+      "id": "PXD003947",
+      "file": "PXD003947.sdrf.tsv",
+      "filename": "PXD003947.sdrf.tsv",
+      "path": "datasets/PXD003947/PXD003947.sdrf.tsv",
+      "accession_path": "datasets/PXD003947",
+      "github_url": "https://github.com/bigbio/sdrf-annotated-datasets/blob/main/datasets/PXD003947/PXD003947.sdrf.tsv",
+      "accession_github_url": "https://github.com/bigbio/sdrf-annotated-datasets/tree/main/datasets/PXD003947",
+      "raw_url": "https://raw.githubusercontent.com/bigbio/sdrf-annotated-datasets/main/datasets/PXD003947/PXD003947.sdrf.tsv",
+      "num_samples": 109,
+      "num_columns": 33,
+      "organisms": [
+        "Homo sapiens"
+      ],
+      "diseases": [],
+      "instruments": [
+        "Q Exactive Plus",
+        "Q Exactive"
       ],
       "acquisition_methods": [
         "Data-dependent acquisition"
@@ -3051,8 +3109,8 @@
         "Homo sapiens"
       ],
       "diseases": [
-        "uninfected",
-        "obesity"
+        "obesity",
+        "uninfected"
       ],
       "instruments": [
         "Q Exactive HF"
@@ -3111,8 +3169,8 @@
         "none"
       ],
       "instruments": [
-        "Q Exactive Plus",
-        "LTQ Velos"
+        "LTQ Velos",
+        "Q Exactive Plus"
       ],
       "acquisition_methods": [
         "Data-dependent acquisition"
@@ -3140,9 +3198,9 @@
       "diseases": [
         "colon cancer",
         "breast cancer",
-        "epithelial cervix carcinoma",
         "lung adenocarcinoma",
-        "neuroblastoma"
+        "neuroblastoma",
+        "epithelial cervix carcinoma"
       ],
       "instruments": [
         "Q Exactive"
@@ -3445,8 +3503,8 @@
         "Homo sapiens"
       ],
       "diseases": [
-        "squamous  cell carcinoma",
-        "control"
+        "control",
+        "squamous  cell carcinoma"
       ],
       "instruments": [
         "Q Exactive Plus"
@@ -3534,17 +3592,17 @@
         "Homo sapiens"
       ],
       "diseases": [
-        "Invasive breast lobular carcinoma",
+        "Metastatic breast lobular carcinoma",
         "colon adenocarcinoma",
         "Breast ductal carcinoma",
         "Breast carcinoma",
-        "breast cancer",
+        "Breast pleomorphic carcinoma",
         "Breast adenocarcinoma",
         "Invasive breast carcinoma of no special type",
-        "Breast pleomorphic carcinoma",
-        "Breast acantholytic squamous cell carcinoma",
+        "breast cancer",
+        "Invasive breast lobular carcinoma",
         "Breast inflammatory carcinoma",
-        "Metastatic breast lobular carcinoma"
+        "Breast acantholytic squamous cell carcinoma"
       ],
       "instruments": [
         "TripleTOF 5600"
@@ -3710,13 +3768,13 @@
         "Homo sapiens"
       ],
       "diseases": [
-        "Lung cancer",
         "Pancreatic cancer",
-        "Healthy control",
-        "Pancretic cancer",
         "Ovarian cancer",
-        "Colorecral adenocarcinoma",
         "Benigne Prostate Hyperplasia",
+        "Pancretic cancer",
+        "Colorecral adenocarcinoma",
+        "Healthy control",
+        "Lung cancer",
         "Prostate cancer"
       ],
       "instruments": [
@@ -4318,8 +4376,8 @@
         "homo sapiens"
       ],
       "diseases": [
-        "metastatic ovarian high grade serous adenocarcinoma",
-        "triple-negative breast cancer"
+        "triple-negative breast cancer",
+        "metastatic ovarian high grade serous adenocarcinoma"
       ],
       "instruments": [
         "Q Exactive"
@@ -4402,15 +4460,15 @@
         "homo sapiens"
       ],
       "diseases": [
-        "renal cell carcinoma",
         "non-small cell lung adenocarcinoma",
         "colon adenocarcinoma",
-        "ovarian serous cystadenocarcinoma",
-        "invasive ductal carcinoma",
-        "prostate carcinoma",
-        "astrocytoma",
+        "childhood T acute lymphoblastic leukemia",
         "amelanotic melanoma",
-        "childhood T acute lymphoblastic leukemia"
+        "astrocytoma",
+        "invasive ductal carcinoma",
+        "ovarian serous cystadenocarcinoma",
+        "prostate carcinoma",
+        "renal cell carcinoma"
       ],
       "instruments": [
         "Orbitrap Elite"
@@ -4439,34 +4497,34 @@
         "homo sapiens"
       ],
       "diseases": [
-        "renal cell carcinoma",
-        "brain glioblastoma",
-        "Colon adenocarcinoma",
-        "invasive ductal carcinoma",
-        "astrocytoma",
-        "amelanotic melanoma",
-        "high grade ovarian serous adenocarcinoma",
-        "clear cell renal carcinoma",
-        "ovarian serous cystadenocarcinoma",
-        "multiple myeloma",
-        "chronic myelogenous leukemia",
-        "breast adenocarcinoma",
-        "prostate carcinoma",
-        "lung adenocarcinoma",
-        "melanoma",
-        "anaplastic large cell lymphoma",
-        "metastatic melanoma",
-        "childhood T acute lymphoblastic leukemia",
-        "Ovarian Endometrioid Adenocarcinoma",
-        "non-small cell lung adenocarcinoma",
-        "colon adenocarcinoma",
-        "colon carcinoma",
-        "gliosarcoma",
-        "Pleural Epithelioid Mesothelioma",
-        "cutaneous melanoma",
         "adult T acute lymphoblastic leukemia",
+        "high grade ovarian serous adenocarcinoma",
         "non-small cell lung carcinoma",
-        "adult acute myeloid leukemia"
+        "invasive ductal carcinoma",
+        "renal cell carcinoma",
+        "astrocytoma",
+        "multiple myeloma",
+        "Pleural Epithelioid Mesothelioma",
+        "breast adenocarcinoma",
+        "anaplastic large cell lymphoma",
+        "gliosarcoma",
+        "Ovarian Endometrioid Adenocarcinoma",
+        "melanoma",
+        "metastatic melanoma",
+        "prostate carcinoma",
+        "non-small cell lung adenocarcinoma",
+        "Colon adenocarcinoma",
+        "adult acute myeloid leukemia",
+        "colon adenocarcinoma",
+        "childhood T acute lymphoblastic leukemia",
+        "cutaneous melanoma",
+        "chronic myelogenous leukemia",
+        "amelanotic melanoma",
+        "colon carcinoma",
+        "lung adenocarcinoma",
+        "ovarian serous cystadenocarcinoma",
+        "clear cell renal carcinoma",
+        "brain glioblastoma"
       ],
       "instruments": [
         "LTQ Orbitrap XL ETD"
@@ -4495,34 +4553,34 @@
         "homo sapiens"
       ],
       "diseases": [
-        "renal cell carcinoma",
-        "brain glioblastoma",
-        "rectosigmoid adenocarcinoma",
-        "invasive ductal carcinoma",
-        "astrocytoma",
-        "amelanotic melanoma",
+        "adult T acute lymphoblastic leukemia",
         "high grade ovarian serous adenocarcinoma",
-        "clear cell renal carcinoma",
-        "ovarian serous cystadenocarcinoma",
+        "rectosigmoid adenocarcinoma",
+        "non-small cell lung carcinoma",
+        "invasive ductal carcinoma",
+        "renal cell carcinoma",
+        "astrocytoma",
         "multiple myeloma",
-        "chronic myelogenous leukemia",
+        "Pleural Epithelioid Mesothelioma",
         "breast adenocarcinoma",
-        "prostate carcinoma",
-        "lung adenocarcinoma",
         "anaplastic large cell lymphoma",
+        "gliosarcoma",
+        "Ovarian Endometrioid Adenocarcinoma",
         "melanoma",
         "metastatic melanoma",
-        "childhood T acute lymphoblastic leukemia",
-        "Ovarian Endometrioid Adenocarcinoma",
+        "prostate carcinoma",
         "non-small cell lung adenocarcinoma",
+        "adult acute myeloid leukemia",
         "colon adenocarcinoma",
-        "colon carcinoma",
-        "gliosarcoma",
-        "Pleural Epithelioid Mesothelioma",
+        "childhood T acute lymphoblastic leukemia",
         "cutaneous melanoma",
-        "adult T acute lymphoblastic leukemia",
-        "non-small cell lung carcinoma",
-        "adult acute myeloid leukemia"
+        "chronic myelogenous leukemia",
+        "amelanotic melanoma",
+        "colon carcinoma",
+        "lung adenocarcinoma",
+        "ovarian serous cystadenocarcinoma",
+        "clear cell renal carcinoma",
+        "brain glioblastoma"
       ],
       "instruments": [
         "LTQ Orbitrap XL ETD"
@@ -4662,8 +4720,8 @@
       "num_samples": 28,
       "num_columns": 32,
       "organisms": [
-        "mus musculus",
-        "homo sapiens"
+        "homo sapiens",
+        "mus musculus"
       ],
       "diseases": [],
       "instruments": [
@@ -4839,8 +4897,8 @@
         "Homo sapiens"
       ],
       "diseases": [
-        "atrial fibrillation",
-        "trauma victims"
+        "trauma victims",
+        "atrial fibrillation"
       ],
       "instruments": [
         "Q Exactive HF"
@@ -4893,8 +4951,8 @@
       "num_samples": 94,
       "num_columns": 42,
       "organisms": [
-        "Danio rerio",
-        "Xenopus laevis"
+        "Xenopus laevis",
+        "Danio rerio"
       ],
       "diseases": [],
       "instruments": [
@@ -4984,41 +5042,41 @@
         "homo sapiens"
       ],
       "diseases": [
-        "Alzheimer's disease 6",
-        "control7",
-        "Alzheimer's disease/Parkinson's disease5",
-        "Parkinson's disease6",
-        "Alzheimer's disease/Parkinson's disease9",
-        "Parkinson's disease",
-        "Alzheimer's disease 5",
-        "control4",
-        "Alzheimer's disease/Parkinson's disease8",
-        "Parkinson's disease8",
-        "Alzheimer's disease/Parkinson's disease4",
-        "Alzheimer's disease 4",
-        "control0",
-        "control6",
-        "control",
-        "Alzheimer's disease/Parkinson's disease0",
-        "Alzheimer's disease/Parkinson's disease7",
-        "Parkinson's disease3",
-        "Alzheimer's disease/Parkinson's disease6",
-        "Parkinson's disease5",
-        "Parkinson's disease9",
         "Parkinson's disease4",
-        "Alzheimer's disease 8",
-        "Parkinson's disease0",
-        "Alzheimer's disease 9",
-        "Alzheimer's disease0",
-        "Alzheimer's disease 3",
         "Alzheimer's disease/Parkinson's disease3",
+        "Alzheimer's disease 5",
+        "Parkinson's disease6",
+        "control9",
+        "control",
+        "control4",
         "Alzheimer's disease 7",
         "Alzheimer's disease",
+        "Alzheimer's disease 8",
+        "Alzheimer's disease/Parkinson's disease8",
+        "Alzheimer's disease/Parkinson's disease5",
+        "Parkinson's disease5",
+        "Parkinson's disease0",
+        "Alzheimer's disease 6",
+        "Alzheimer's disease/Parkinson's disease9",
+        "Alzheimer's disease/Parkinson's disease7",
+        "Alzheimer's disease 9",
+        "Alzheimer's disease 3",
         "control3",
-        "Alzheimer's disease/Parkinson's disease",
+        "Parkinson's disease",
+        "Parkinson's disease9",
+        "Alzheimer's disease 4",
+        "Parkinson's disease3",
+        "Alzheimer's disease0",
+        "Alzheimer's disease/Parkinson's disease0",
+        "Alzheimer's disease/Parkinson's disease4",
+        "control0",
+        "Alzheimer's disease/Parkinson's disease6",
+        "control7",
         "control5",
+        "Parkinson's disease8",
+        "Alzheimer's disease/Parkinson's disease",
         "control8",
-        "control9",
+        "control6",
         "Parkinson's disease7"
       ],
       "instruments": [
@@ -5218,14 +5276,14 @@
         "Homo sapiens"
       ],
       "diseases": [
-        "metastatic carcinoma",
         "primary acantholytic squamous cell carcinoma",
-        "primary breast tumor",
-        "ductal carcinoma",
         "fibrocystic disease",
-        "medulallary carcinoma",
+        "ductal carcinoma",
+        "primary breast tumor",
         "breast carcinoma",
-        "primary ductal carcinoma"
+        "metastatic carcinoma",
+        "primary ductal carcinoma",
+        "medulallary carcinoma"
       ],
       "instruments": [
         "Q Exactive"
@@ -5395,12 +5453,12 @@
         "Homo Sapiens"
       ],
       "diseases": [
+        "basal-like breast carcinoma",
+        "Normal Breast-Like Subtype of Breast Carcinoma",
         "HER2 Positive Breast Carcinoma",
         "breast cancer",
-        "Normal Breast-Like Subtype of Breast Carcinoma",
         "luminal A breast carcinoma",
-        "luminal B breast carcinoma",
-        "basal-like breast carcinoma"
+        "luminal B breast carcinoma"
       ],
       "instruments": [
         "Q Exactive"
@@ -5456,9 +5514,9 @@
         "Homo sapiens"
       ],
       "diseases": [
-        "dilated cardiomyopathy",
         "compensated hypertrophy",
         "cardiac hypertrophy",
+        "dilated cardiomyopathy",
         "ischemic cardiomyopathy"
       ],
       "instruments": [
@@ -5711,17 +5769,17 @@
         "Homo sapiens"
       ],
       "diseases": [
-        "superficial spreading melanoma",
-        "unknown",
-        "other",
-        "nodular melanoma",
         "acral lentiginous melanoma",
-        "lentigo maligna melanoma",
-        "mucosal"
+        "mucosal",
+        "unknown",
+        "nodular melanoma",
+        "other",
+        "superficial spreading melanoma",
+        "lentigo maligna melanoma"
       ],
       "instruments": [
-        "Q Exactive",
-        "Q Exactive Plus"
+        "Q Exactive Plus",
+        "Q Exactive"
       ],
       "acquisition_methods": [
         "Data-dependent acquisition"
@@ -5802,8 +5860,8 @@
       ],
       "diseases": [],
       "instruments": [
-        "Orbitrap Fusion Lumos",
         "Q Exactive Plus",
+        "Orbitrap Fusion Lumos",
         "Q Exactive HF"
       ],
       "acquisition_methods": [
@@ -5889,14 +5947,14 @@
         "Homo sapiens"
       ],
       "diseases": [
-        "'Crohn''s Disease Irritable Bowel Syndrome'",
-        "Colon Adenoma",
-        "Gastric Carcinoma",
-        "Ulcerative Colitis remission stage",
-        "Healthy control",
         "Ulcerative Colitis active stage",
+        "Colon Adenoma",
         "Irritable Bowel Syndrome",
-        "'Crohn''s Disease'"
+        "'Crohn''s Disease'",
+        "'Crohn''s Disease Irritable Bowel Syndrome'",
+        "Healthy control",
+        "Ulcerative Colitis remission stage",
+        "Gastric Carcinoma"
       ],
       "instruments": [
         "Q Exactive HF"
@@ -5985,6 +6043,33 @@
       ],
       "instruments": [
         "Orbitrap Fusion Lumos"
+      ],
+      "acquisition_methods": [
+        "Data-dependent acquisition"
+      ],
+      "experiment_type": "DDA",
+      "label_type": "Label-free",
+      "accession_file_count": 1,
+      "template": "unknown",
+      "version": "unknown"
+    },
+    {
+      "id": "PXD010695",
+      "file": "PXD010695.sdrf.tsv",
+      "filename": "PXD010695.sdrf.tsv",
+      "path": "datasets/PXD010695/PXD010695.sdrf.tsv",
+      "accession_path": "datasets/PXD010695",
+      "github_url": "https://github.com/bigbio/sdrf-annotated-datasets/blob/main/datasets/PXD010695/PXD010695.sdrf.tsv",
+      "accession_github_url": "https://github.com/bigbio/sdrf-annotated-datasets/tree/main/datasets/PXD010695",
+      "raw_url": "https://raw.githubusercontent.com/bigbio/sdrf-annotated-datasets/main/datasets/PXD010695/PXD010695.sdrf.tsv",
+      "num_samples": 18,
+      "num_columns": 33,
+      "organisms": [
+        "Homo sapiens"
+      ],
+      "diseases": [],
+      "instruments": [
+        "Q Exactive"
       ],
       "acquisition_methods": [
         "Data-dependent acquisition"
@@ -6222,6 +6307,33 @@
       "version": "unknown"
     },
     {
+      "id": "PXD011290",
+      "file": "PXD011290.sdrf.tsv",
+      "filename": "PXD011290.sdrf.tsv",
+      "path": "datasets/PXD011290/PXD011290.sdrf.tsv",
+      "accession_path": "datasets/PXD011290",
+      "github_url": "https://github.com/bigbio/sdrf-annotated-datasets/blob/main/datasets/PXD011290/PXD011290.sdrf.tsv",
+      "accession_github_url": "https://github.com/bigbio/sdrf-annotated-datasets/tree/main/datasets/PXD011290",
+      "raw_url": "https://raw.githubusercontent.com/bigbio/sdrf-annotated-datasets/main/datasets/PXD011290/PXD011290.sdrf.tsv",
+      "num_samples": 432,
+      "num_columns": 35,
+      "organisms": [
+        "Homo sapiens"
+      ],
+      "diseases": [],
+      "instruments": [
+        "Q Exactive HF"
+      ],
+      "acquisition_methods": [
+        "Data-dependent acquisition"
+      ],
+      "experiment_type": "DDA",
+      "label_type": "TMT",
+      "accession_file_count": 1,
+      "template": "unknown",
+      "version": "unknown"
+    },
+    {
       "id": "PXD011799",
       "file": "PXD011799.sdrf.tsv",
       "filename": "PXD011799.sdrf.tsv",
@@ -6265,9 +6377,9 @@
         "homo sapiens"
       ],
       "diseases": [
-        "non-alcoholic fatty liver disease",
         "type II diabetes mellitus",
-        "cirrhosis of liver"
+        "cirrhosis of liver",
+        "non-alcoholic fatty liver disease"
       ],
       "instruments": [
         "Q Exactive HF-X"
@@ -6380,9 +6492,9 @@
         "Homo sapiens"
       ],
       "diseases": [
-        "Alzheimer's disease",
+        "Alzheimer's diseasemedial",
         "Non-demented control",
-        "Alzheimer's diseasemedial"
+        "Alzheimer's disease"
       ],
       "instruments": [
         "Q Exactive"
@@ -6733,6 +6845,35 @@
       "version": "unknown"
     },
     {
+      "id": "PXD012981",
+      "file": "PXD012981.sdrf.tsv",
+      "filename": "PXD012981.sdrf.tsv",
+      "path": "datasets/PXD012981/PXD012981.sdrf.tsv",
+      "accession_path": "datasets/PXD012981",
+      "github_url": "https://github.com/bigbio/sdrf-annotated-datasets/blob/main/datasets/PXD012981/PXD012981.sdrf.tsv",
+      "accession_github_url": "https://github.com/bigbio/sdrf-annotated-datasets/tree/main/datasets/PXD012981",
+      "raw_url": "https://raw.githubusercontent.com/bigbio/sdrf-annotated-datasets/main/datasets/PXD012981/PXD012981.sdrf.tsv",
+      "num_samples": 9,
+      "num_columns": 34,
+      "organisms": [
+        "Homo sapiens"
+      ],
+      "diseases": [
+        "endometriosis"
+      ],
+      "instruments": [
+        "timsTOF Pro"
+      ],
+      "acquisition_methods": [
+        "data-dependent acquisition"
+      ],
+      "experiment_type": "DDA",
+      "label_type": "Label-free",
+      "accession_file_count": 1,
+      "template": "unknown",
+      "version": "unknown"
+    },
+    {
       "id": "PXD012986",
       "file": "PXD012986.sdrf.tsv",
       "filename": "PXD012986.sdrf.tsv",
@@ -6774,8 +6915,8 @@
         "Homo sapiens"
       ],
       "diseases": [
-        "uninfected",
-        "polycythemia vera"
+        "polycythemia vera",
+        "uninfected"
       ],
       "instruments": [
         "Q Exactive HF-X"
@@ -7029,9 +7170,9 @@
         "Homo sapiens"
       ],
       "diseases": [
-        "Hepatoblastoma",
-        "gastric carcinoma",
         "epithelial cervix carcinoma",
+        "gastric carcinoma",
+        "Hepatoblastoma",
         "Colorectal cancer"
       ],
       "instruments": [
@@ -7072,6 +7213,60 @@
       "experiment_type": "DDA",
       "label_type": "TMT",
       "accession_file_count": 1,
+      "template": "unknown",
+      "version": "unknown"
+    },
+    {
+      "id": "PXD014210",
+      "file": "PXD014210.dda.sdrf.tsv",
+      "filename": "PXD014210.dda.sdrf.tsv",
+      "path": "datasets/PXD014210/PXD014210.dda.sdrf.tsv",
+      "accession_path": "datasets/PXD014210",
+      "github_url": "https://github.com/bigbio/sdrf-annotated-datasets/blob/main/datasets/PXD014210/PXD014210.dda.sdrf.tsv",
+      "accession_github_url": "https://github.com/bigbio/sdrf-annotated-datasets/tree/main/datasets/PXD014210",
+      "raw_url": "https://raw.githubusercontent.com/bigbio/sdrf-annotated-datasets/main/datasets/PXD014210/PXD014210.dda.sdrf.tsv",
+      "num_samples": 8,
+      "num_columns": 31,
+      "organisms": [
+        "Homo sapiens"
+      ],
+      "diseases": [],
+      "instruments": [
+        "TripleTOF 6600"
+      ],
+      "acquisition_methods": [
+        "Data-dependent acquisition"
+      ],
+      "experiment_type": "DDA",
+      "label_type": "Label-free",
+      "accession_file_count": 2,
+      "template": "unknown",
+      "version": "unknown"
+    },
+    {
+      "id": "PXD014210",
+      "file": "PXD014210.sdrf.tsv",
+      "filename": "PXD014210.sdrf.tsv",
+      "path": "datasets/PXD014210/PXD014210.sdrf.tsv",
+      "accession_path": "datasets/PXD014210",
+      "github_url": "https://github.com/bigbio/sdrf-annotated-datasets/blob/main/datasets/PXD014210/PXD014210.sdrf.tsv",
+      "accession_github_url": "https://github.com/bigbio/sdrf-annotated-datasets/tree/main/datasets/PXD014210",
+      "raw_url": "https://raw.githubusercontent.com/bigbio/sdrf-annotated-datasets/main/datasets/PXD014210/PXD014210.sdrf.tsv",
+      "num_samples": 15,
+      "num_columns": 37,
+      "organisms": [
+        "Homo sapiens"
+      ],
+      "diseases": [],
+      "instruments": [
+        "TripleTOF 6600"
+      ],
+      "acquisition_methods": [
+        "Data-independent acquisition"
+      ],
+      "experiment_type": "DIA",
+      "label_type": "Label-free",
+      "accession_file_count": 2,
       "template": "unknown",
       "version": "unknown"
     },
@@ -7171,8 +7366,8 @@
       "num_samples": 224,
       "num_columns": 38,
       "organisms": [
-        "Homo sapiens",
-        "Saccharomyces cerevisiae"
+        "Saccharomyces cerevisiae",
+        "Homo sapiens"
       ],
       "diseases": [
         "epithelial cervix carcinoma"
@@ -7201,8 +7396,8 @@
       "num_samples": 427,
       "num_columns": 35,
       "organisms": [
-        "Homo sapiens",
-        "Saccharomyces cerevisiae"
+        "Saccharomyces cerevisiae",
+        "Homo sapiens"
       ],
       "diseases": [
         "epithelial cervix carcinoma"
@@ -7305,6 +7500,33 @@
       "version": "unknown"
     },
     {
+      "id": "PXD014618",
+      "file": "PXD014618.sdrf.tsv",
+      "filename": "PXD014618.sdrf.tsv",
+      "path": "datasets/PXD014618/PXD014618.sdrf.tsv",
+      "accession_path": "datasets/PXD014618",
+      "github_url": "https://github.com/bigbio/sdrf-annotated-datasets/blob/main/datasets/PXD014618/PXD014618.sdrf.tsv",
+      "accession_github_url": "https://github.com/bigbio/sdrf-annotated-datasets/tree/main/datasets/PXD014618",
+      "raw_url": "https://raw.githubusercontent.com/bigbio/sdrf-annotated-datasets/main/datasets/PXD014618/PXD014618.sdrf.tsv",
+      "num_samples": 2,
+      "num_columns": 33,
+      "organisms": [
+        "Homo sapiens"
+      ],
+      "diseases": [],
+      "instruments": [
+        "Orbitrap Fusion Lumos"
+      ],
+      "acquisition_methods": [
+        "Data-dependent acquisition"
+      ],
+      "experiment_type": "DDA",
+      "label_type": "Label-free",
+      "accession_file_count": 1,
+      "template": "unknown",
+      "version": "unknown"
+    },
+    {
       "id": "PXD014675",
       "file": "PXD014675.sdrf.tsv",
       "filename": "PXD014675.sdrf.tsv",
@@ -7329,6 +7551,62 @@
       ],
       "experiment_type": "DDA",
       "label_type": "Label-free",
+      "accession_file_count": 1,
+      "template": "unknown",
+      "version": "unknown"
+    },
+    {
+      "id": "PXD014849",
+      "file": "PXD014849.sdrf.tsv",
+      "filename": "PXD014849.sdrf.tsv",
+      "path": "datasets/PXD014849/PXD014849.sdrf.tsv",
+      "accession_path": "datasets/PXD014849",
+      "github_url": "https://github.com/bigbio/sdrf-annotated-datasets/blob/main/datasets/PXD014849/PXD014849.sdrf.tsv",
+      "accession_github_url": "https://github.com/bigbio/sdrf-annotated-datasets/tree/main/datasets/PXD014849",
+      "raw_url": "https://raw.githubusercontent.com/bigbio/sdrf-annotated-datasets/main/datasets/PXD014849/PXD014849.sdrf.tsv",
+      "num_samples": 20,
+      "num_columns": 33,
+      "organisms": [
+        "Homo sapiens"
+      ],
+      "diseases": [
+        "obesity"
+      ],
+      "instruments": [
+        "Q Exactive HF"
+      ],
+      "acquisition_methods": [
+        "Data-dependent acquisition"
+      ],
+      "experiment_type": "DDA",
+      "label_type": "Label-free",
+      "accession_file_count": 1,
+      "template": "unknown",
+      "version": "unknown"
+    },
+    {
+      "id": "PXD014871",
+      "file": "PXD014871.sdrf.tsv",
+      "filename": "PXD014871.sdrf.tsv",
+      "path": "datasets/PXD014871/PXD014871.sdrf.tsv",
+      "accession_path": "datasets/PXD014871",
+      "github_url": "https://github.com/bigbio/sdrf-annotated-datasets/blob/main/datasets/PXD014871/PXD014871.sdrf.tsv",
+      "accession_github_url": "https://github.com/bigbio/sdrf-annotated-datasets/tree/main/datasets/PXD014871",
+      "raw_url": "https://raw.githubusercontent.com/bigbio/sdrf-annotated-datasets/main/datasets/PXD014871/PXD014871.sdrf.tsv",
+      "num_samples": 11,
+      "num_columns": 34,
+      "organisms": [
+        "Homo sapiens"
+      ],
+      "diseases": [],
+      "instruments": [
+        "LTQ Orbitrap Velos"
+      ],
+      "acquisition_methods": [
+        "Data-dependent acquisition"
+      ],
+      "experiment_type": "DDA",
+      "label_type": "TMT",
       "accession_file_count": 1,
       "template": "unknown",
       "version": "unknown"
@@ -7543,8 +7821,8 @@
       "num_columns": 32,
       "organisms": [
         "plasmodium falciparum",
-        "Homo sapiens",
-        "plasmodium knowlesi"
+        "plasmodium knowlesi",
+        "Homo sapiens"
       ],
       "diseases": [],
       "instruments": [
@@ -7714,8 +7992,8 @@
         "Homo sapiens"
       ],
       "diseases": [
-        "malignant melanoma",
-        "metastatic melanoma tumor"
+        "metastatic melanoma tumor",
+        "malignant melanoma"
       ],
       "instruments": [
         " Q Exactive Plus"
@@ -7937,14 +8215,14 @@
       "num_samples": 720,
       "num_columns": 30,
       "organisms": [
-        "Bacteroides thetaiotaomicron",
-        "lactobacillus",
         "Escherichia coli K-12",
+        "Clostridium butyricum",
         "clostridium",
-        "Bifidobacterium longum",
         "Anaerostipes caccae",
-        "Blautia producta",
-        "Clostridium butyricum"
+        "Bacteroides thetaiotaomicron",
+        "Bifidobacterium longum",
+        "lactobacillus",
+        "Blautia producta"
       ],
       "diseases": [],
       "instruments": [
@@ -7974,13 +8252,13 @@
         "Homo sapiens"
       ],
       "diseases": [
-        "Invasive breast lobular carcinoma",
+        "Metastatic breast lobular carcinoma",
         "Breast ductal carcinoma",
         "Breast carcinoma",
         "Breast adenocarcinoma",
         "Invasive breast carcinoma of no special type",
-        "Breast acantholytic squamous cell carcinoma",
-        "Metastatic breast lobular carcinoma"
+        "Invasive breast lobular carcinoma",
+        "Breast acantholytic squamous cell carcinoma"
       ],
       "instruments": [
         "Q Exactive Plus"
@@ -8041,8 +8319,8 @@
         "chronic myelogenous leukemia"
       ],
       "instruments": [
-        "Orbitrap Fusion Lumos",
-        "Q Exactive Plus"
+        "Q Exactive Plus",
+        "Orbitrap Fusion Lumos"
       ],
       "acquisition_methods": [
         "Data-dependent acquisition"
@@ -8127,8 +8405,8 @@
       ],
       "diseases": [],
       "instruments": [
-        "Orbitrap Fusion Lumos",
-        "Q Exactive Plus"
+        "Q Exactive Plus",
+        "Orbitrap Fusion Lumos"
       ],
       "acquisition_methods": [
         "Data-dependent acquisition"
@@ -8438,8 +8716,8 @@
         "Homo sapiens"
       ],
       "diseases": [
-        "Breast cancer (BC)",
-        "Control"
+        "Control",
+        "Breast cancer (BC)"
       ],
       "instruments": [
         "Q Exactive HF-X"
@@ -8528,10 +8806,10 @@
         "Orbitrap Exploris 480"
       ],
       "acquisition_methods": [
-        "Data-independent acquisition",
-        "Data-dependent acquisition"
+        "Data-dependent acquisition",
+        "Data-independent acquisition"
       ],
-      "experiment_type": "DIA",
+      "experiment_type": "DDA",
       "label_type": "Label-free",
       "accession_file_count": 1,
       "template": "unknown",
@@ -8748,15 +9026,15 @@
       ],
       "diseases": [
         "decellularized_5",
-        "decellularized_3",
-        "native_3",
-        "native_5",
+        "native_4",
         "native_1",
         "native_2",
-        "decellularized_4",
+        "native_3",
         "decellularized_1",
-        "native_4",
-        "decellularized_2"
+        "decellularized_2",
+        "native_5",
+        "decellularized_4",
+        "decellularized_3"
       ],
       "instruments": [
         "LTQ"
@@ -8849,6 +9127,33 @@
       ],
       "experiment_type": "DDA",
       "label_type": "SILAC",
+      "accession_file_count": 1,
+      "template": "unknown",
+      "version": "unknown"
+    },
+    {
+      "id": "PXD020286",
+      "file": "PXD020286.sdrf.tsv",
+      "filename": "PXD020286.sdrf.tsv",
+      "path": "datasets/PXD020286/PXD020286.sdrf.tsv",
+      "accession_path": "datasets/PXD020286",
+      "github_url": "https://github.com/bigbio/sdrf-annotated-datasets/blob/main/datasets/PXD020286/PXD020286.sdrf.tsv",
+      "accession_github_url": "https://github.com/bigbio/sdrf-annotated-datasets/tree/main/datasets/PXD020286",
+      "raw_url": "https://raw.githubusercontent.com/bigbio/sdrf-annotated-datasets/main/datasets/PXD020286/PXD020286.sdrf.tsv",
+      "num_samples": 9,
+      "num_columns": 33,
+      "organisms": [
+        "Homo sapiens"
+      ],
+      "diseases": [],
+      "instruments": [
+        "Orbitrap Fusion Lumos"
+      ],
+      "acquisition_methods": [
+        "Data-dependent acquisition"
+      ],
+      "experiment_type": "DDA",
+      "label_type": "Label-free",
       "accession_file_count": 1,
       "template": "unknown",
       "version": "unknown"
@@ -8956,8 +9261,8 @@
         "acute myeloid leukemia"
       ],
       "instruments": [
-        "Orbitrap Fusion",
-        "Orbitrap Exploris 480"
+        "Orbitrap Exploris 480",
+        "Orbitrap Fusion"
       ],
       "acquisition_methods": [
         "data-dependent acquisition"
@@ -9207,9 +9512,9 @@
       ],
       "diseases": [],
       "instruments": [
-        "timsTOF Pro",
         "Q Exactive Plus",
         "Orbitrap Fusion Lumos",
+        "timsTOF Pro",
         "Q Exactive HF"
       ],
       "acquisition_methods": [
@@ -9237,9 +9542,9 @@
       ],
       "diseases": [],
       "instruments": [
-        "timsTOF Pro",
-        "Q Exactive Plus",
         "Q Exactive HF-X",
+        "Q Exactive Plus",
+        "timsTOF Pro",
         "Q Exactive HF"
       ],
       "acquisition_methods": [
@@ -9357,10 +9662,10 @@
         "timsTOF Pro"
       ],
       "acquisition_methods": [
-        "Data-independent acquisition",
-        "Data-dependent acquisition"
+        "Data-dependent acquisition",
+        "Data-independent acquisition"
       ],
-      "experiment_type": "DIA",
+      "experiment_type": "DDA",
       "label_type": "Label-free",
       "accession_file_count": 1,
       "template": "unknown",
@@ -9507,6 +9812,33 @@
       "version": "unknown"
     },
     {
+      "id": "PXD025939",
+      "file": "PXD025939.sdrf.tsv",
+      "filename": "PXD025939.sdrf.tsv",
+      "path": "datasets/PXD025939/PXD025939.sdrf.tsv",
+      "accession_path": "datasets/PXD025939",
+      "github_url": "https://github.com/bigbio/sdrf-annotated-datasets/blob/main/datasets/PXD025939/PXD025939.sdrf.tsv",
+      "accession_github_url": "https://github.com/bigbio/sdrf-annotated-datasets/tree/main/datasets/PXD025939",
+      "raw_url": "https://raw.githubusercontent.com/bigbio/sdrf-annotated-datasets/main/datasets/PXD025939/PXD025939.sdrf.tsv",
+      "num_samples": 10,
+      "num_columns": 33,
+      "organisms": [
+        "Homo sapiens"
+      ],
+      "diseases": [],
+      "instruments": [
+        "Q Exactive Plus"
+      ],
+      "acquisition_methods": [
+        "Data-dependent acquisition"
+      ],
+      "experiment_type": "DDA",
+      "label_type": "Label-free",
+      "accession_file_count": 1,
+      "template": "unknown",
+      "version": "unknown"
+    },
+    {
       "id": "PXD026474",
       "file": "PXD026474.sdrf.tsv",
       "filename": "PXD026474.sdrf.tsv",
@@ -9523,6 +9855,62 @@
       "diseases": [],
       "instruments": [
         "Orbitrap Fusion Lumos"
+      ],
+      "acquisition_methods": [
+        "Data-dependent acquisition"
+      ],
+      "experiment_type": "DDA",
+      "label_type": "Label-free",
+      "accession_file_count": 1,
+      "template": "unknown",
+      "version": "unknown"
+    },
+    {
+      "id": "PXD026649",
+      "file": "PXD026649.sdrf.tsv",
+      "filename": "PXD026649.sdrf.tsv",
+      "path": "datasets/PXD026649/PXD026649.sdrf.tsv",
+      "accession_path": "datasets/PXD026649",
+      "github_url": "https://github.com/bigbio/sdrf-annotated-datasets/blob/main/datasets/PXD026649/PXD026649.sdrf.tsv",
+      "accession_github_url": "https://github.com/bigbio/sdrf-annotated-datasets/tree/main/datasets/PXD026649",
+      "raw_url": "https://raw.githubusercontent.com/bigbio/sdrf-annotated-datasets/main/datasets/PXD026649/PXD026649.sdrf.tsv",
+      "num_samples": 37,
+      "num_columns": 33,
+      "organisms": [
+        "Homo sapiens"
+      ],
+      "diseases": [],
+      "instruments": [
+        "Orbitrap Fusion Lumos"
+      ],
+      "acquisition_methods": [
+        "Data-dependent acquisition"
+      ],
+      "experiment_type": "DDA",
+      "label_type": "Label-free",
+      "accession_file_count": 1,
+      "template": "unknown",
+      "version": "unknown"
+    },
+    {
+      "id": "PXD026703",
+      "file": "PXD026703.sdrf.tsv",
+      "filename": "PXD026703.sdrf.tsv",
+      "path": "datasets/PXD026703/PXD026703.sdrf.tsv",
+      "accession_path": "datasets/PXD026703",
+      "github_url": "https://github.com/bigbio/sdrf-annotated-datasets/blob/main/datasets/PXD026703/PXD026703.sdrf.tsv",
+      "accession_github_url": "https://github.com/bigbio/sdrf-annotated-datasets/tree/main/datasets/PXD026703",
+      "raw_url": "https://raw.githubusercontent.com/bigbio/sdrf-annotated-datasets/main/datasets/PXD026703/PXD026703.sdrf.tsv",
+      "num_samples": 28,
+      "num_columns": 33,
+      "organisms": [
+        "Homo sapiens"
+      ],
+      "diseases": [
+        "COVID-19"
+      ],
+      "instruments": [
+        "Orbitrap Fusion"
       ],
       "acquisition_methods": [
         "Data-dependent acquisition"
@@ -9555,6 +9943,91 @@
       ],
       "acquisition_methods": [
         "data-dependent acquisition"
+      ],
+      "experiment_type": "DDA",
+      "label_type": "Label-free",
+      "accession_file_count": 1,
+      "template": "unknown",
+      "version": "unknown"
+    },
+    {
+      "id": "PXD027637",
+      "file": "PXD027637.sdrf.tsv",
+      "filename": "PXD027637.sdrf.tsv",
+      "path": "datasets/PXD027637/PXD027637.sdrf.tsv",
+      "accession_path": "datasets/PXD027637",
+      "github_url": "https://github.com/bigbio/sdrf-annotated-datasets/blob/main/datasets/PXD027637/PXD027637.sdrf.tsv",
+      "accession_github_url": "https://github.com/bigbio/sdrf-annotated-datasets/tree/main/datasets/PXD027637",
+      "raw_url": "https://raw.githubusercontent.com/bigbio/sdrf-annotated-datasets/main/datasets/PXD027637/PXD027637.sdrf.tsv",
+      "num_samples": 6,
+      "num_columns": 33,
+      "organisms": [
+        "Homo sapiens"
+      ],
+      "diseases": [
+        "non-syndromic male infertility due to sperm motility disorder"
+      ],
+      "instruments": [
+        "timsTOF Pro"
+      ],
+      "acquisition_methods": [
+        "Data-dependent acquisition"
+      ],
+      "experiment_type": "DDA",
+      "label_type": "Label-free",
+      "accession_file_count": 1,
+      "template": "unknown",
+      "version": "unknown"
+    },
+    {
+      "id": "PXD027648",
+      "file": "PXD027648.sdrf.tsv",
+      "filename": "PXD027648.sdrf.tsv",
+      "path": "datasets/PXD027648/PXD027648.sdrf.tsv",
+      "accession_path": "datasets/PXD027648",
+      "github_url": "https://github.com/bigbio/sdrf-annotated-datasets/blob/main/datasets/PXD027648/PXD027648.sdrf.tsv",
+      "accession_github_url": "https://github.com/bigbio/sdrf-annotated-datasets/tree/main/datasets/PXD027648",
+      "raw_url": "https://raw.githubusercontent.com/bigbio/sdrf-annotated-datasets/main/datasets/PXD027648/PXD027648.sdrf.tsv",
+      "num_samples": 20,
+      "num_columns": 30,
+      "organisms": [
+        "Homo sapiens"
+      ],
+      "diseases": [
+        "endometriosis"
+      ],
+      "instruments": [
+        "Q Exactive HF"
+      ],
+      "acquisition_methods": [
+        "Data-independent acquisition"
+      ],
+      "experiment_type": "DIA",
+      "label_type": "Label-free",
+      "accession_file_count": 1,
+      "template": "unknown",
+      "version": "unknown"
+    },
+    {
+      "id": "PXD028348",
+      "file": "PXD028348.sdrf.tsv",
+      "filename": "PXD028348.sdrf.tsv",
+      "path": "datasets/PXD028348/PXD028348.sdrf.tsv",
+      "accession_path": "datasets/PXD028348",
+      "github_url": "https://github.com/bigbio/sdrf-annotated-datasets/blob/main/datasets/PXD028348/PXD028348.sdrf.tsv",
+      "accession_github_url": "https://github.com/bigbio/sdrf-annotated-datasets/tree/main/datasets/PXD028348",
+      "raw_url": "https://raw.githubusercontent.com/bigbio/sdrf-annotated-datasets/main/datasets/PXD028348/PXD028348.sdrf.tsv",
+      "num_samples": 18,
+      "num_columns": 33,
+      "organisms": [
+        "Homo sapiens"
+      ],
+      "diseases": [],
+      "instruments": [
+        "LTQ Orbitrap Velos"
+      ],
+      "acquisition_methods": [
+        "Data-dependent acquisition"
       ],
       "experiment_type": "DDA",
       "label_type": "Label-free",
@@ -9687,206 +10160,206 @@
         "Homo sapiens"
       ],
       "diseases": [
-        "Adult hepatocellular carcinoma",
-        "Tonsillar squamous cell carcinoma",
-        "Ovarian carcinoma",
-        "Esophageal squamous cell carcinoma",
-        "Lung carcinoid tumor",
+        "Down syndrome",
+        "Lung mucoepidermoid carcinoma",
+        "Endocervical adenocarcinoma",
+        "Follicular lymphoma",
+        "Ovarian serous adenocarcinoma",
+        "Human papillomavirus-independent cervical squamous cell carcinoma",
+        "Rectal adenocarcinoma",
+        "Medulloblastoma, non-WNT/non-SHH, group 3",
+        "Oral cavity squamous cell carcinoma",
+        "Lung sarcomatoid carcinoma",
+        "Ovarian mucinous adenocarcinoma",
+        "Medulloblastoma, SHH-activated, TP53-mutant",
+        "Pancreatic adenocarcinoma",
+        "Brain astrocytoma",
+        "Alveolar ridge squamous cell carcinoma",
+        "Lung adenosquamous carcinoma",
+        "Epithelioid sarcoma",
+        "Ewing sarcoma",
+        "Pancreatic ductal adenocarcinoma",
+        "Renal pelvis urothelial carcinoma",
+        "Gastric choriocarcinoma",
+        "Chronic eosinophilic leukemia, not otherwise specified",
+        "Prostate carcinoma",
+        "Uterine corpus sarcoma",
+        "Lung carcinoma",
+        "Gastric tubular adenocarcinoma",
+        "Osteosarcoma",
         "Natural killer cell lymphoblastic leukemia/lymphoma",
-        "Breast acantholytic squamous cell carcinoma",
-        "Colorectal carcinoma",
-        "Acute erythroid leukemia",
+        "Endometrial carcinoma",
+        "melanoma",
+        "Lymphoblastic lymphoma",
+        "Childhood B acute lymphoblastic leukemia",
+        "Vulvar squamous cell carcinoma",
+        "Human papillomavirus-related cervical squamous cell carcinoma",
+        "Colon carcinoma",
+        "Plasma cell myeloma",
+        "Skin squamous cell carcinoma",
+        "Hypopharyngeal squamous cell carcinoma",
+        "Adult Burkitt leukemia",
+        "Extraskeletal myxoid chondrosarcoma",
+        "Pancreatic adenosquamous carcinoma",
+        "Acute myeloid leukemia without maturation",
+        "Ovarian endometrioid adenocarcinoma",
+        "Buccal mucosa squamous cell carcinoma",
+        "Erythroleukemia",
+        "Lung large cell carcinoma",
+        "Hepatoblastoma",
+        "Kidney neoplasm",
+        "Gastric small cell carcinoma",
+        "Primary cutaneous t-cell non-hodgkin lymphoma",
+        "Prostate small cell carcinoma",
+        "Recurrent bladder carcinoma",
+        "Acute myeloid leukemia",
+        "Ovarian granulosa cell tumor",
+        "Childhood acute myeloid leukemia with maturation",
+        "Adrenal cortex carcinoma",
         "Rhabdoid tumor of the kidney",
         "Sacral chordoma",
-        "Uterine corpus leiomyosarcoma",
-        "Head and neck squamous cell carcinoma",
-        "Splenic marginal zone lymphoma",
-        "Thyroid gland papillary carcinoma",
-        "Ovarian clear cell adenocarcinoma",
-        "High grade ovarian serous adenocarcinoma",
-        "Human papillomavirus-independent cervical squamous cell carcinoma",
-        "Fibrosarcoma",
-        "Lung squamous cell carcinoma",
-        "Askin tumor",
-        "Poorly differentiated thyroid gland carcinoma",
-        "Sezary syndrome",
-        "Down syndrome",
         "Rhabdomyosarcoma",
-        "Oral cavity squamous cell carcinoma",
-        "Hepatobiliary neoplasm",
-        "Gastric small cell carcinoma",
-        "glioblastoma",
-        "Ovarian serous cystadenocarcinoma",
-        "Chronic myelogenous leukemia",
-        "Adrenal gland neuroblastoma",
-        "Acute promyelocytic leukemia with PML-RARA",
-        "Uterine corpus sarcoma",
-        "Laryngeal squamous cell carcinoma",
-        "Endometrial adenocarcinoma",
-        "Pleural epithelioid mesothelioma",
-        "Breast ductal carcinoma",
-        "Pancreatic adenosquamous carcinoma",
-        "Alveolar ridge squamous cell carcinoma",
-        "Gastroesophageal junction adenocarcinoma",
-        "Ovarian mucinous adenocarcinoma",
-        "Lung mucoepidermoid carcinoma",
-        "Oligodendroglioma",
-        "Floor of mouth squamous cell carcinoma",
-        "Gastric choriocarcinoma",
-        "invasive breast carcinoma",
-        "Neuroblastoma",
-        "Ovarian granulosa cell tumor",
-        "Hereditary thyroid gland medullary carcinoma",
-        "Osteosarcoma",
-        "Lung papillary adenocarcinoma",
-        "Primary effusion lymphoma",
-        "Clear cell renal cell carcinoma",
-        "Adult B acute lymphoblastic leukemia",
-        "Medulloblastoma, non-WNT/non-SHH, group 3",
-        "Dedifferentiated chondrosarcoma",
-        "Epithelioid sarcoma",
-        "Lung sarcomatoid carcinoma",
-        "BRCA1-related cancer predisposition",
-        "Hepatitis C infection",
-        "Diffuse large b-cell lymphoma activated b-cell type",
-        "Gastric adenocarcinoma",
-        "Embryonal carcinoma",
-        "Lung carcinoma",
-        "B acute lymphoblastic leukemia with TCF3-HLF rearrangement",
-        "Primitive neuroectodermal tumor",
-        "Lung small cell carcinoma",
-        "Burkitt lymphoma",
-        "Invasive breast lobular carcinoma",
-        "Prostate carcinoma",
-        "Cervical small cell carcinoma",
-        "Parotid gland mucoepidermoid carcinoma",
-        "Acanthosis nigricans",
-        "Lung non-small cell carcinoma",
-        "Gastric tubular adenocarcinoma",
-        "Minimally invasive lung adenocarcinoma",
-        "Undifferentiated pleomorphic sarcoma",
-        "Plasma cell myeloma",
-        "Pancreatic ductal adenocarcinoma",
-        "Gestational choriocarcinoma",
-        "Ureter urothelial carcinoma",
-        "Bronchogenic carcinoma",
-        "Renal pelvis urothelial carcinoma",
-        "Liposarcoma",
-        "Hairy cell leukemia",
-        "Thyroid gland follicular carcinoma",
-        "Lung large cell carcinoma",
-        "Pyriform fossa squamous cell carcinoma",
-        "Skin squamous cell carcinoma",
-        "Esophageal adenocarcinoma",
-        "Pleural biphasic mesothelioma",
-        "Childhood acute myeloid leukemia",
-        "Follicular lymphoma",
-        "Hypopharyngeal squamous cell carcinoma",
-        "Endometrioid stromal sarcoma",
-        "Childhood B acute lymphoblastic leukemia",
-        "Buccal mucosa squamous cell carcinoma",
-        "Anaplastic large cell lymphoma, ALK-positive",
-        "Lung giant cell carcinoma",
-        "Ovarian serous adenocarcinoma",
-        "Primary cutaneous t-cell non-hodgkin lymphoma",
-        "Intrahepatic cholangiocarcinoma",
-        "Prostate small cell carcinoma",
-        "Endometrial adenosquamous carcinoma",
-        "Bladder carcinoma",
-        "Childhood acute myeloid leukemia with maturation",
-        "Biphasic synovial sarcoma",
-        "Pancreatic undifferentiated carcinoma",
-        "BRCA2-related cancer predisposition",
-        "Gliosarcoma",
-        "Medulloblastoma, SHH-activated, TP53-wildtype",
-        "Primary mediastinal large B-cell lymphoma",
-        "Oral epithelial dysplasia",
-        "Erythroleukemia",
-        "Thyroid gland anaplastic carcinoma",
-        "Anaplastic astrocytoma",
-        "Adult acute myelomonocytic leukemia",
-        "Adult Burkitt leukemia",
-        "Alveolar rhabdomyosarcoma",
-        "Pharyngeal squamous cell carcinoma",
-        "Hodgkin lymphoma",
-        "Pancreatic adenocarcinoma",
-        "Gingival squamous cell carcinoma",
-        "Gastric carcinoma",
-        "Pleural malignant mesothelioma",
-        "Diffuse large b-cell lymphoma germinal center b-cell type",
-        "Endocervical adenocarcinoma",
-        "Ovarian leiomyosarcoma",
-        "Cervical carcinoma",
-        "Cecum adenocarcinoma",
-        "melanoma",
-        "Embryonal rhabdomyosarcoma",
-        "Hepatoblastoma",
-        "Childhood T lymphoblastic lymphoma",
-        "Vaginal melanoma",
-        "Adrenal cortex carcinoma",
-        "Vulvar squamous cell carcinoma",
-        "Diffuse large b-cell lymphoma",
-        "Benign prostatic hyperplasia",
-        "Human papillomavirus-related cervical squamous cell carcinoma",
-        "Diffuse large B-cell lymphoma germinal center B-cell type",
-        "Acute myeloid leukemia without maturation",
-        "Thoracic SMARCA4-deficient undifferentiated tumor",
-        "Tongue squamous cell carcinoma",
-        "Lung adenosquamous carcinoma",
-        "Childhood acute monocytic leukemia",
-        "Ovarian endometrioid adenocarcinoma",
-        "B acute lymphoblastic leukemia",
-        "Tongue adenosquamous carcinoma",
-        "Breast carcinoma",
-        "Adult acute monocytic leukemia",
-        "Pancreatic carcinoma",
-        "Cervical squamous cell carcinoma",
-        "Kidney neoplasm",
-        "Papillary renal cell carcinoma",
-        "Lymphoblastic lymphoma",
-        "Hereditary spherocytosis",
-        "Acute biphenotypic leukemia",
-        "Vulvar melanoma",
-        "Ewing sarcoma",
-        "Pancreatic somatostatinoma",
-        "Breast adenocarcinoma",
-        "Childhood hepatocellular carcinoma",
-        "Cystic fibrosis",
-        "Mantle cell lymphoma",
-        "Renal cell carcinoma",
-        "B-cell non-hodgkin lymphoma",
-        "Gastric fundus carcinoma",
-        "Vulvar carcinoma",
-        "Amelanotic melanoma",
-        "Endometrial carcinoma",
-        "Thyroid gland squamous cell carcinoma",
-        "Testicular embryonal carcinoma",
-        "B-cell prolymphocytic leukemia",
-        "Adult acute myeloid leukemia",
-        "Adult t acute lymphoblastic leukemia",
-        "Acute myeloid leukemia",
-        "Chondrosarcoma",
-        "Barrett adenocarcinoma",
-        "lung adenocarcinoma",
-        "Recurrent bladder carcinoma",
-        "Childhood T acute lymphoblastic leukemia",
-        "Colon carcinoma",
+        "Breast acantholytic squamous cell carcinoma",
         "Ovarian mixed germ cell tumor",
-        "Ovarian adenocarcinoma",
-        "Cutaneous melanoma",
-        "Chronic eosinophilic leukemia, not otherwise specified",
+        "Pleural epithelioid mesothelioma",
+        "Diffuse large b-cell lymphoma germinal center b-cell type",
+        "Uterine corpus leiomyosarcoma",
         "Duodenal adenocarcinoma",
-        "Vulvar leiomyosarcoma",
-        "Gallbladder undifferentiated carcinoma",
-        "Extraskeletal myxoid chondrosarcoma",
-        "colon adenocarcinoma",
+        "Burkitt lymphoma",
+        "Lung giant cell carcinoma",
+        "Adult t acute lymphoblastic leukemia",
         "Submandibular gland squamous cell carcinoma",
-        "Brain astrocytoma",
-        "Rectal adenocarcinoma",
-        "Acute promyelocytic leukemia",
-        "Gastric signet ring cell adenocarcinoma",
+        "Adult hepatocellular carcinoma",
+        "Cystic fibrosis",
+        "Endometrioid stromal sarcoma",
+        "Gastric fundus carcinoma",
+        "Primary mediastinal large B-cell lymphoma",
+        "Neuroblastoma",
+        "Adult B acute lymphoblastic leukemia",
+        "Childhood hepatocellular carcinoma",
+        "Intrahepatic cholangiocarcinoma",
+        "Acanthosis nigricans",
+        "Pleural biphasic mesothelioma",
+        "Breast adenocarcinoma",
+        "Gallbladder undifferentiated carcinoma",
+        "Barrett adenocarcinoma",
+        "Gestational choriocarcinoma",
+        "Tongue adenosquamous carcinoma",
+        "Adrenal gland neuroblastoma",
+        "Askin tumor",
+        "Acute biphenotypic leukemia",
+        "BRCA1-related cancer predisposition",
+        "Laryngeal squamous cell carcinoma",
+        "Chronic myelogenous leukemia",
+        "Tonsillar squamous cell carcinoma",
+        "Pancreatic somatostatinoma",
+        "Breast ductal carcinoma",
+        "Pleural malignant mesothelioma",
+        "Vulvar leiomyosarcoma",
+        "Tongue squamous cell carcinoma",
+        "Poorly differentiated thyroid gland carcinoma",
+        "Cutaneous melanoma",
+        "Thoracic SMARCA4-deficient undifferentiated tumor",
         "Pleural sarcomatoid mesothelioma",
-        "Medulloblastoma, SHH-activated, TP53-mutant"
+        "Embryonal carcinoma",
+        "Medulloblastoma, SHH-activated, TP53-wildtype",
+        "BRCA2-related cancer predisposition",
+        "B-cell prolymphocytic leukemia",
+        "Vaginal melanoma",
+        "Pancreatic undifferentiated carcinoma",
+        "Hodgkin lymphoma",
+        "Cervical squamous cell carcinoma",
+        "Ovarian clear cell adenocarcinoma",
+        "Thyroid gland papillary carcinoma",
+        "Gingival squamous cell carcinoma",
+        "Endometrial adenocarcinoma",
+        "Acute promyelocytic leukemia",
+        "Parotid gland mucoepidermoid carcinoma",
+        "Sezary syndrome",
+        "Splenic marginal zone lymphoma",
+        "Lung non-small cell carcinoma",
+        "Oligodendroglioma",
+        "Acute erythroid leukemia",
+        "Gastric adenocarcinoma",
+        "Anaplastic large cell lymphoma, ALK-positive",
+        "Liposarcoma",
+        "Primitive neuroectodermal tumor",
+        "Biphasic synovial sarcoma",
+        "Clear cell renal cell carcinoma",
+        "Cervical carcinoma",
+        "Pharyngeal squamous cell carcinoma",
+        "High grade ovarian serous adenocarcinoma",
+        "Childhood T acute lymphoblastic leukemia",
+        "B acute lymphoblastic leukemia",
+        "Adult acute monocytic leukemia",
+        "Acute promyelocytic leukemia with PML-RARA",
+        "Ureter urothelial carcinoma",
+        "Esophageal adenocarcinoma",
+        "Dedifferentiated chondrosarcoma",
+        "Alveolar rhabdomyosarcoma",
+        "Lung papillary adenocarcinoma",
+        "invasive breast carcinoma",
+        "Hereditary thyroid gland medullary carcinoma",
+        "Endometrial adenosquamous carcinoma",
+        "Renal cell carcinoma",
+        "Chondrosarcoma",
+        "Gastric carcinoma",
+        "Ovarian serous cystadenocarcinoma",
+        "Ovarian leiomyosarcoma",
+        "lung adenocarcinoma",
+        "Adult acute myeloid leukemia",
+        "Diffuse large B-cell lymphoma germinal center B-cell type",
+        "Gastric signet ring cell adenocarcinoma",
+        "Ovarian adenocarcinoma",
+        "Testicular embryonal carcinoma",
+        "Head and neck squamous cell carcinoma",
+        "Embryonal rhabdomyosarcoma",
+        "Anaplastic astrocytoma",
+        "Colorectal carcinoma",
+        "Breast carcinoma",
+        "Pancreatic carcinoma",
+        "Adult acute myelomonocytic leukemia",
+        "Benign prostatic hyperplasia",
+        "Esophageal squamous cell carcinoma",
+        "Fibrosarcoma",
+        "Lung carcinoid tumor",
+        "Hairy cell leukemia",
+        "Hepatitis C infection",
+        "B acute lymphoblastic leukemia with TCF3-HLF rearrangement",
+        "Gastroesophageal junction adenocarcinoma",
+        "Childhood acute myeloid leukemia",
+        "Thyroid gland squamous cell carcinoma",
+        "Cervical small cell carcinoma",
+        "Diffuse large b-cell lymphoma",
+        "Oral epithelial dysplasia",
+        "Pyriform fossa squamous cell carcinoma",
+        "Amelanotic melanoma",
+        "Lung squamous cell carcinoma",
+        "Gliosarcoma",
+        "B-cell non-hodgkin lymphoma",
+        "Mantle cell lymphoma",
+        "Hereditary spherocytosis",
+        "Diffuse large b-cell lymphoma activated b-cell type",
+        "Thyroid gland anaplastic carcinoma",
+        "Papillary renal cell carcinoma",
+        "glioblastoma",
+        "Vulvar melanoma",
+        "Undifferentiated pleomorphic sarcoma",
+        "Primary effusion lymphoma",
+        "Lung small cell carcinoma",
+        "Cecum adenocarcinoma",
+        "Childhood acute monocytic leukemia",
+        "Vulvar carcinoma",
+        "Ovarian carcinoma",
+        "Minimally invasive lung adenocarcinoma",
+        "colon adenocarcinoma",
+        "Hepatobiliary neoplasm",
+        "Floor of mouth squamous cell carcinoma",
+        "Invasive breast lobular carcinoma",
+        "Childhood T lymphoblastic lymphoma",
+        "Bronchogenic carcinoma",
+        "Thyroid gland follicular carcinoma",
+        "Bladder carcinoma"
       ],
       "instruments": [
         "TripleTOF 6600"
@@ -9969,8 +10442,8 @@
         "Homo sapiens"
       ],
       "diseases": [
-        "Healthy control",
-        "Rheumatic heart disease"
+        "Rheumatic heart disease",
+        "Healthy control"
       ],
       "instruments": [
         "TripleTOF 6600"
@@ -10001,8 +10474,8 @@
       ],
       "diseases": [],
       "instruments": [
-        "Orbitrap Fusion Lumos",
-        "Q Exactive Plus"
+        "Q Exactive Plus",
+        "Orbitrap Fusion Lumos"
       ],
       "acquisition_methods": [
         "Data-dependent acquisition"
@@ -10111,14 +10584,43 @@
       ],
       "diseases": [],
       "instruments": [
-        "Orbitrap Fusion Lumos",
-        "Q Exactive Plus"
+        "Q Exactive Plus",
+        "Orbitrap Fusion Lumos"
       ],
       "acquisition_methods": [
         "Data-dependent acquisition"
       ],
       "experiment_type": "DDA",
       "label_type": "Label-free",
+      "accession_file_count": 1,
+      "template": "unknown",
+      "version": "unknown"
+    },
+    {
+      "id": "PXD032270",
+      "file": "PXD032270.sdrf.tsv",
+      "filename": "PXD032270.sdrf.tsv",
+      "path": "datasets/PXD032270/PXD032270.sdrf.tsv",
+      "accession_path": "datasets/PXD032270",
+      "github_url": "https://github.com/bigbio/sdrf-annotated-datasets/blob/main/datasets/PXD032270/PXD032270.sdrf.tsv",
+      "accession_github_url": "https://github.com/bigbio/sdrf-annotated-datasets/tree/main/datasets/PXD032270",
+      "raw_url": "https://raw.githubusercontent.com/bigbio/sdrf-annotated-datasets/main/datasets/PXD032270/PXD032270.sdrf.tsv",
+      "num_samples": 2,
+      "num_columns": 34,
+      "organisms": [
+        "Homo sapiens"
+      ],
+      "diseases": [
+        "hypogonadotropic hypogonadism"
+      ],
+      "instruments": [
+        "LTQ Orbitrap Velos"
+      ],
+      "acquisition_methods": [
+        "Data-dependent acquisition"
+      ],
+      "experiment_type": "DDA",
+      "label_type": "TMT",
       "accession_file_count": 1,
       "template": "unknown",
       "version": "unknown"
@@ -10140,6 +10642,35 @@
       "diseases": [],
       "instruments": [
         "Q Exactive"
+      ],
+      "acquisition_methods": [
+        "Data-dependent acquisition"
+      ],
+      "experiment_type": "DDA",
+      "label_type": "Label-free",
+      "accession_file_count": 1,
+      "template": "unknown",
+      "version": "unknown"
+    },
+    {
+      "id": "PXD033749",
+      "file": "PXD033749.sdrf.tsv",
+      "filename": "PXD033749.sdrf.tsv",
+      "path": "datasets/PXD033749/PXD033749.sdrf.tsv",
+      "accession_path": "datasets/PXD033749",
+      "github_url": "https://github.com/bigbio/sdrf-annotated-datasets/blob/main/datasets/PXD033749/PXD033749.sdrf.tsv",
+      "accession_github_url": "https://github.com/bigbio/sdrf-annotated-datasets/tree/main/datasets/PXD033749",
+      "raw_url": "https://raw.githubusercontent.com/bigbio/sdrf-annotated-datasets/main/datasets/PXD033749/PXD033749.sdrf.tsv",
+      "num_samples": 14,
+      "num_columns": 33,
+      "organisms": [
+        "Homo sapiens"
+      ],
+      "diseases": [
+        "oligoasthenoteratozoospermia"
+      ],
+      "instruments": [
+        "Q Exactive HF"
       ],
       "acquisition_methods": [
         "Data-dependent acquisition"
@@ -10207,6 +10738,60 @@
       "version": "unknown"
     },
     {
+      "id": "PXD035579",
+      "file": "PXD035579.mrm.sdrf.tsv",
+      "filename": "PXD035579.mrm.sdrf.tsv",
+      "path": "datasets/PXD035579/PXD035579.mrm.sdrf.tsv",
+      "accession_path": "datasets/PXD035579",
+      "github_url": "https://github.com/bigbio/sdrf-annotated-datasets/blob/main/datasets/PXD035579/PXD035579.mrm.sdrf.tsv",
+      "accession_github_url": "https://github.com/bigbio/sdrf-annotated-datasets/tree/main/datasets/PXD035579",
+      "raw_url": "https://raw.githubusercontent.com/bigbio/sdrf-annotated-datasets/main/datasets/PXD035579/PXD035579.mrm.sdrf.tsv",
+      "num_samples": 24,
+      "num_columns": 31,
+      "organisms": [
+        "Homo sapiens"
+      ],
+      "diseases": [],
+      "instruments": [
+        "QTRAP 6500+"
+      ],
+      "acquisition_methods": [
+        "Selected reaction monitoring"
+      ],
+      "experiment_type": "SRM/MRM",
+      "label_type": "Label-free",
+      "accession_file_count": 2,
+      "template": "unknown",
+      "version": "unknown"
+    },
+    {
+      "id": "PXD035579",
+      "file": "PXD035579.sdrf.tsv",
+      "filename": "PXD035579.sdrf.tsv",
+      "path": "datasets/PXD035579/PXD035579.sdrf.tsv",
+      "accession_path": "datasets/PXD035579",
+      "github_url": "https://github.com/bigbio/sdrf-annotated-datasets/blob/main/datasets/PXD035579/PXD035579.sdrf.tsv",
+      "accession_github_url": "https://github.com/bigbio/sdrf-annotated-datasets/tree/main/datasets/PXD035579",
+      "raw_url": "https://raw.githubusercontent.com/bigbio/sdrf-annotated-datasets/main/datasets/PXD035579/PXD035579.sdrf.tsv",
+      "num_samples": 21,
+      "num_columns": 37,
+      "organisms": [
+        "Homo sapiens"
+      ],
+      "diseases": [],
+      "instruments": [
+        "TripleTOF 6600"
+      ],
+      "acquisition_methods": [
+        "Data-independent acquisition"
+      ],
+      "experiment_type": "DIA",
+      "label_type": "Label-free",
+      "accession_file_count": 2,
+      "template": "unknown",
+      "version": "unknown"
+    },
+    {
       "id": "PXD035590",
       "file": "PXD035590.sdrf.tsv",
       "filename": "PXD035590.sdrf.tsv",
@@ -10226,6 +10811,34 @@
       ],
       "acquisition_methods": [
         "Data-dependent acquisition"
+      ],
+      "experiment_type": "DDA",
+      "label_type": "Label-free",
+      "accession_file_count": 1,
+      "template": "unknown",
+      "version": "unknown"
+    },
+    {
+      "id": "PXD036023",
+      "file": "PXD036023.sdrf.tsv",
+      "filename": "PXD036023.sdrf.tsv",
+      "path": "datasets/PXD036023/PXD036023.sdrf.tsv",
+      "accession_path": "datasets/PXD036023",
+      "github_url": "https://github.com/bigbio/sdrf-annotated-datasets/blob/main/datasets/PXD036023/PXD036023.sdrf.tsv",
+      "accession_github_url": "https://github.com/bigbio/sdrf-annotated-datasets/tree/main/datasets/PXD036023",
+      "raw_url": "https://raw.githubusercontent.com/bigbio/sdrf-annotated-datasets/main/datasets/PXD036023/PXD036023.sdrf.tsv",
+      "num_samples": 54,
+      "num_columns": 33,
+      "organisms": [
+        "Homo sapiens"
+      ],
+      "diseases": [],
+      "instruments": [
+        "Orbitrap Fusion Lumos"
+      ],
+      "acquisition_methods": [
+        "Data-dependent acquisition",
+        "Data-independent acquisition"
       ],
       "experiment_type": "DDA",
       "label_type": "Label-free",
@@ -10259,6 +10872,36 @@
         "Data-independent acquisition"
       ],
       "experiment_type": "DIA",
+      "label_type": "Label-free",
+      "accession_file_count": 1,
+      "template": "unknown",
+      "version": "unknown"
+    },
+    {
+      "id": "PXD036497",
+      "file": "PXD036497.sdrf.tsv",
+      "filename": "PXD036497.sdrf.tsv",
+      "path": "datasets/PXD036497/PXD036497.sdrf.tsv",
+      "accession_path": "datasets/PXD036497",
+      "github_url": "https://github.com/bigbio/sdrf-annotated-datasets/blob/main/datasets/PXD036497/PXD036497.sdrf.tsv",
+      "accession_github_url": "https://github.com/bigbio/sdrf-annotated-datasets/tree/main/datasets/PXD036497",
+      "raw_url": "https://raw.githubusercontent.com/bigbio/sdrf-annotated-datasets/main/datasets/PXD036497/PXD036497.sdrf.tsv",
+      "num_samples": 58,
+      "num_columns": 41,
+      "organisms": [
+        "Homo sapiens"
+      ],
+      "diseases": [
+        "endometriosis"
+      ],
+      "instruments": [
+        "timsTOF Pro"
+      ],
+      "acquisition_methods": [
+        "Data-dependent acquisition",
+        "Data-independent acquisition"
+      ],
+      "experiment_type": "DDA",
       "label_type": "Label-free",
       "accession_file_count": 1,
       "template": "unknown",
@@ -10351,6 +10994,63 @@
       "version": "unknown"
     },
     {
+      "id": "PXD036819",
+      "file": "PXD036819.sdrf.tsv",
+      "filename": "PXD036819.sdrf.tsv",
+      "path": "datasets/PXD036819/PXD036819.sdrf.tsv",
+      "accession_path": "datasets/PXD036819",
+      "github_url": "https://github.com/bigbio/sdrf-annotated-datasets/blob/main/datasets/PXD036819/PXD036819.sdrf.tsv",
+      "accession_github_url": "https://github.com/bigbio/sdrf-annotated-datasets/tree/main/datasets/PXD036819",
+      "raw_url": "https://raw.githubusercontent.com/bigbio/sdrf-annotated-datasets/main/datasets/PXD036819/PXD036819.sdrf.tsv",
+      "num_samples": 75,
+      "num_columns": 33,
+      "organisms": [
+        "Homo sapiens"
+      ],
+      "diseases": [],
+      "instruments": [
+        "Orbitrap Exploris 480",
+        "Q Exactive HF"
+      ],
+      "acquisition_methods": [
+        "Data-dependent acquisition"
+      ],
+      "experiment_type": "DDA",
+      "label_type": "Label-free",
+      "accession_file_count": 1,
+      "template": "unknown",
+      "version": "unknown"
+    },
+    {
+      "id": "PXD037033",
+      "file": "PXD037033.sdrf.tsv",
+      "filename": "PXD037033.sdrf.tsv",
+      "path": "datasets/PXD037033/PXD037033.sdrf.tsv",
+      "accession_path": "datasets/PXD037033",
+      "github_url": "https://github.com/bigbio/sdrf-annotated-datasets/blob/main/datasets/PXD037033/PXD037033.sdrf.tsv",
+      "accession_github_url": "https://github.com/bigbio/sdrf-annotated-datasets/tree/main/datasets/PXD037033",
+      "raw_url": "https://raw.githubusercontent.com/bigbio/sdrf-annotated-datasets/main/datasets/PXD037033/PXD037033.sdrf.tsv",
+      "num_samples": 38,
+      "num_columns": 35,
+      "organisms": [
+        "Homo sapiens"
+      ],
+      "diseases": [
+        "endometriosis"
+      ],
+      "instruments": [
+        "Q Exactive Plus"
+      ],
+      "acquisition_methods": [
+        "data-dependent acquisition"
+      ],
+      "experiment_type": "DDA",
+      "label_type": "Label-free",
+      "accession_file_count": 1,
+      "template": "unknown",
+      "version": "unknown"
+    },
+    {
       "id": "PXD037221",
       "file": "PXD037221.sdrf.tsv",
       "filename": "PXD037221.sdrf.tsv",
@@ -10400,10 +11100,40 @@
         "Orbitrap Eclipse"
       ],
       "acquisition_methods": [
-        "Data-independent acquisition",
+        "Data-dependent acquisition",
+        "Data-independent acquisition"
+      ],
+      "experiment_type": "DDA",
+      "label_type": "Label-free",
+      "accession_file_count": 1,
+      "template": "unknown",
+      "version": "unknown"
+    },
+    {
+      "id": "PXD037531",
+      "file": "PXD037531.sdrf.tsv",
+      "filename": "PXD037531.sdrf.tsv",
+      "path": "datasets/PXD037531/PXD037531.sdrf.tsv",
+      "accession_path": "datasets/PXD037531",
+      "github_url": "https://github.com/bigbio/sdrf-annotated-datasets/blob/main/datasets/PXD037531/PXD037531.sdrf.tsv",
+      "accession_github_url": "https://github.com/bigbio/sdrf-annotated-datasets/tree/main/datasets/PXD037531",
+      "raw_url": "https://raw.githubusercontent.com/bigbio/sdrf-annotated-datasets/main/datasets/PXD037531/PXD037531.sdrf.tsv",
+      "num_samples": 76,
+      "num_columns": 33,
+      "organisms": [
+        "Homo sapiens"
+      ],
+      "diseases": [
+        "oligoasthenoteratozoospermia",
+        "male infertility"
+      ],
+      "instruments": [
+        "Q Exactive Plus"
+      ],
+      "acquisition_methods": [
         "Data-dependent acquisition"
       ],
-      "experiment_type": "DIA",
+      "experiment_type": "DDA",
       "label_type": "Label-free",
       "accession_file_count": 1,
       "template": "unknown",
@@ -10495,6 +11225,65 @@
       "version": "unknown"
     },
     {
+      "id": "PXD039703",
+      "file": "PXD039703.sdrf.tsv",
+      "filename": "PXD039703.sdrf.tsv",
+      "path": "datasets/PXD039703/PXD039703.sdrf.tsv",
+      "accession_path": "datasets/PXD039703",
+      "github_url": "https://github.com/bigbio/sdrf-annotated-datasets/blob/main/datasets/PXD039703/PXD039703.sdrf.tsv",
+      "accession_github_url": "https://github.com/bigbio/sdrf-annotated-datasets/tree/main/datasets/PXD039703",
+      "raw_url": "https://raw.githubusercontent.com/bigbio/sdrf-annotated-datasets/main/datasets/PXD039703/PXD039703.sdrf.tsv",
+      "num_samples": 48,
+      "num_columns": 33,
+      "organisms": [
+        "Homo sapiens"
+      ],
+      "diseases": [
+        "oligoasthenoteratozoospermia"
+      ],
+      "instruments": [
+        "Q Exactive HF"
+      ],
+      "acquisition_methods": [
+        "Data-dependent acquisition"
+      ],
+      "experiment_type": "DDA",
+      "label_type": "Label-free",
+      "accession_file_count": 1,
+      "template": "unknown",
+      "version": "unknown"
+    },
+    {
+      "id": "PXD040292",
+      "file": "PXD040292.sdrf.tsv",
+      "filename": "PXD040292.sdrf.tsv",
+      "path": "datasets/PXD040292/PXD040292.sdrf.tsv",
+      "accession_path": "datasets/PXD040292",
+      "github_url": "https://github.com/bigbio/sdrf-annotated-datasets/blob/main/datasets/PXD040292/PXD040292.sdrf.tsv",
+      "accession_github_url": "https://github.com/bigbio/sdrf-annotated-datasets/tree/main/datasets/PXD040292",
+      "raw_url": "https://raw.githubusercontent.com/bigbio/sdrf-annotated-datasets/main/datasets/PXD040292/PXD040292.sdrf.tsv",
+      "num_samples": 92,
+      "num_columns": 38,
+      "organisms": [
+        "Homo sapiens"
+      ],
+      "diseases": [
+        "male infertility"
+      ],
+      "instruments": [
+        "TripleTOF 6600"
+      ],
+      "acquisition_methods": [
+        "Data-dependent acquisition",
+        "Data-independent acquisition"
+      ],
+      "experiment_type": "DDA",
+      "label_type": "Label-free",
+      "accession_file_count": 1,
+      "template": "unknown",
+      "version": "unknown"
+    },
+    {
       "id": "PXD040455",
       "file": "PXD040455.sdrf.tsv",
       "filename": "PXD040455.sdrf.tsv",
@@ -10509,8 +11298,8 @@
         "Homo sapiens"
       ],
       "diseases": [
-        "cervical adenocarcinoma",
         "lung adenocarcinoma",
+        "cervical adenocarcinoma",
         "chronic myeloid leukemia"
       ],
       "instruments": [
@@ -10594,8 +11383,8 @@
         "Homo sapiens"
       ],
       "diseases": [
-        "Blast phase chronic myelogenous leukemia, BCR-ABL1 positive",
-        "lung adenocarcinoma"
+        "lung adenocarcinoma",
+        "Blast phase chronic myelogenous leukemia, BCR-ABL1 positive"
       ],
       "instruments": [
         "timsTOF Pro"
@@ -10635,6 +11424,35 @@
       ],
       "experiment_type": "DDA",
       "label_type": "Label-free",
+      "accession_file_count": 1,
+      "template": "unknown",
+      "version": "unknown"
+    },
+    {
+      "id": "PXD042101",
+      "file": "PXD042101.sdrf.tsv",
+      "filename": "PXD042101.sdrf.tsv",
+      "path": "datasets/PXD042101/PXD042101.sdrf.tsv",
+      "accession_path": "datasets/PXD042101",
+      "github_url": "https://github.com/bigbio/sdrf-annotated-datasets/blob/main/datasets/PXD042101/PXD042101.sdrf.tsv",
+      "accession_github_url": "https://github.com/bigbio/sdrf-annotated-datasets/tree/main/datasets/PXD042101",
+      "raw_url": "https://raw.githubusercontent.com/bigbio/sdrf-annotated-datasets/main/datasets/PXD042101/PXD042101.sdrf.tsv",
+      "num_samples": 120,
+      "num_columns": 39,
+      "organisms": [
+        "Homo sapiens"
+      ],
+      "diseases": [
+        "endometriosis"
+      ],
+      "instruments": [
+        "Orbitrap Eclipse"
+      ],
+      "acquisition_methods": [
+        "Data-dependent acquisition"
+      ],
+      "experiment_type": "DDA",
+      "label_type": "TMT",
       "accession_file_count": 1,
       "template": "unknown",
       "version": "unknown"
@@ -10682,12 +11500,12 @@
       ],
       "diseases": [],
       "instruments": [
-        "Orbitrap Fusion Lumos",
-        "Q Exactive",
+        "Q Exactive Plus",
         "Orbitrap Fusion",
-        "Orbitrap Elite",
         "Orbitrap Eclipse",
-        "Q Exactive Plus"
+        "Orbitrap Fusion Lumos",
+        "Orbitrap Elite",
+        "Q Exactive"
       ],
       "acquisition_methods": [
         "Data-dependent acquisition"
@@ -10744,8 +11562,8 @@
       ],
       "diseases": [],
       "instruments": [
-        "Q Exactive HF",
-        "Orbitrap Eclipse"
+        "Orbitrap Eclipse",
+        "Q Exactive HF"
       ],
       "acquisition_methods": [
         "Data-dependent acquisition"
@@ -10798,19 +11616,19 @@
         "Homo sapiens"
       ],
       "diseases": [
-        "T-cell childhood acute lymphocytic leukemia",
-        "intrahepatic cholangiocarcinoma",
         "ovarian cystadenocarcinoma",
-        "cholangiocarcinoma"
+        "cholangiocarcinoma",
+        "T-cell childhood acute lymphocytic leukemia",
+        "intrahepatic cholangiocarcinoma"
       ],
       "instruments": [
         "timsTOF SCP"
       ],
       "acquisition_methods": [
-        "Data-independent acquisition",
-        "Data-dependent acquisition"
+        "Data-dependent acquisition",
+        "Data-independent acquisition"
       ],
-      "experiment_type": "DIA",
+      "experiment_type": "DDA",
       "label_type": "Label-free",
       "accession_file_count": 1,
       "template": "unknown",
@@ -10862,10 +11680,10 @@
         "Orbitrap Fusion Lumos"
       ],
       "acquisition_methods": [
-        "Data-independent acquisition",
-        "Data-dependent acquisition"
+        "Data-dependent acquisition",
+        "Data-independent acquisition"
       ],
-      "experiment_type": "DIA",
+      "experiment_type": "DDA",
       "label_type": "Label-free",
       "accession_file_count": 1,
       "template": "unknown",
@@ -10937,8 +11755,8 @@
       "num_samples": 83,
       "num_columns": 44,
       "organisms": [
-        "Homo sapiens",
-        "Xenopus laevis"
+        "Xenopus laevis",
+        "Homo sapiens"
       ],
       "diseases": [
         "cervical adenocarcinoma"
@@ -10947,10 +11765,94 @@
         "Q Exactive Plus"
       ],
       "acquisition_methods": [
-        "Data-independent acquisition",
+        "Data-dependent acquisition",
+        "Data-independent acquisition"
+      ],
+      "experiment_type": "DDA",
+      "label_type": "Label-free",
+      "accession_file_count": 1,
+      "template": "unknown",
+      "version": "unknown"
+    },
+    {
+      "id": "PXD046594",
+      "file": "PXD046594.sdrf.tsv",
+      "filename": "PXD046594.sdrf.tsv",
+      "path": "datasets/PXD046594/PXD046594.sdrf.tsv",
+      "accession_path": "datasets/PXD046594",
+      "github_url": "https://github.com/bigbio/sdrf-annotated-datasets/blob/main/datasets/PXD046594/PXD046594.sdrf.tsv",
+      "accession_github_url": "https://github.com/bigbio/sdrf-annotated-datasets/tree/main/datasets/PXD046594",
+      "raw_url": "https://raw.githubusercontent.com/bigbio/sdrf-annotated-datasets/main/datasets/PXD046594/PXD046594.sdrf.tsv",
+      "num_samples": 27,
+      "num_columns": 38,
+      "organisms": [
+        "Homo sapiens"
+      ],
+      "diseases": [
+        "oligoasthenoteratozoospermia"
+      ],
+      "instruments": [
+        "TripleTOF 6600"
+      ],
+      "acquisition_methods": [
+        "Data-dependent acquisition",
+        "Data-independent acquisition"
+      ],
+      "experiment_type": "DDA",
+      "label_type": "Label-free",
+      "accession_file_count": 1,
+      "template": "unknown",
+      "version": "unknown"
+    },
+    {
+      "id": "PXD046848",
+      "file": "PXD046848.sdrf.tsv",
+      "filename": "PXD046848.sdrf.tsv",
+      "path": "datasets/PXD046848/PXD046848.sdrf.tsv",
+      "accession_path": "datasets/PXD046848",
+      "github_url": "https://github.com/bigbio/sdrf-annotated-datasets/blob/main/datasets/PXD046848/PXD046848.sdrf.tsv",
+      "accession_github_url": "https://github.com/bigbio/sdrf-annotated-datasets/tree/main/datasets/PXD046848",
+      "raw_url": "https://raw.githubusercontent.com/bigbio/sdrf-annotated-datasets/main/datasets/PXD046848/PXD046848.sdrf.tsv",
+      "num_samples": 6,
+      "num_columns": 33,
+      "organisms": [
+        "Homo sapiens"
+      ],
+      "diseases": [],
+      "instruments": [
+        "Q Exactive HF"
+      ],
+      "acquisition_methods": [
         "Data-dependent acquisition"
       ],
-      "experiment_type": "DIA",
+      "experiment_type": "DDA",
+      "label_type": "Label-free",
+      "accession_file_count": 1,
+      "template": "unknown",
+      "version": "unknown"
+    },
+    {
+      "id": "PXD047280",
+      "file": "PXD047280.sdrf.tsv",
+      "filename": "PXD047280.sdrf.tsv",
+      "path": "datasets/PXD047280/PXD047280.sdrf.tsv",
+      "accession_path": "datasets/PXD047280",
+      "github_url": "https://github.com/bigbio/sdrf-annotated-datasets/blob/main/datasets/PXD047280/PXD047280.sdrf.tsv",
+      "accession_github_url": "https://github.com/bigbio/sdrf-annotated-datasets/tree/main/datasets/PXD047280",
+      "raw_url": "https://raw.githubusercontent.com/bigbio/sdrf-annotated-datasets/main/datasets/PXD047280/PXD047280.sdrf.tsv",
+      "num_samples": 30,
+      "num_columns": 33,
+      "organisms": [
+        "Homo sapiens"
+      ],
+      "diseases": [],
+      "instruments": [
+        "Q Exactive HF"
+      ],
+      "acquisition_methods": [
+        "Data-dependent acquisition"
+      ],
+      "experiment_type": "DDA",
       "label_type": "Label-free",
       "accession_file_count": 1,
       "template": "unknown",
@@ -10981,6 +11883,35 @@
       ],
       "experiment_type": "DDA",
       "label_type": "TMT",
+      "accession_file_count": 1,
+      "template": "unknown",
+      "version": "unknown"
+    },
+    {
+      "id": "PXD048093",
+      "file": "PXD048093.sdrf.tsv",
+      "filename": "PXD048093.sdrf.tsv",
+      "path": "datasets/PXD048093/PXD048093.sdrf.tsv",
+      "accession_path": "datasets/PXD048093",
+      "github_url": "https://github.com/bigbio/sdrf-annotated-datasets/blob/main/datasets/PXD048093/PXD048093.sdrf.tsv",
+      "accession_github_url": "https://github.com/bigbio/sdrf-annotated-datasets/tree/main/datasets/PXD048093",
+      "raw_url": "https://raw.githubusercontent.com/bigbio/sdrf-annotated-datasets/main/datasets/PXD048093/PXD048093.sdrf.tsv",
+      "num_samples": 6,
+      "num_columns": 36,
+      "organisms": [
+        "Homo sapiens"
+      ],
+      "diseases": [
+        "endometriosis"
+      ],
+      "instruments": [
+        "Orbitrap Fusion Lumos"
+      ],
+      "acquisition_methods": [
+        "Data-independent acquisition"
+      ],
+      "experiment_type": "DIA",
+      "label_type": "Label-free",
       "accession_file_count": 1,
       "template": "unknown",
       "version": "unknown"
@@ -11056,8 +11987,8 @@
         "Homo sapiens"
       ],
       "diseases": [
-        "cervical adenocarcinoma",
-        "colon carcinoma"
+        "colon carcinoma",
+        "cervical adenocarcinoma"
       ],
       "instruments": [
         "Orbitrap Astral"
@@ -11086,10 +12017,10 @@
         "Homo sapiens"
       ],
       "diseases": [
-        "chronic myeloid leukemia",
         "lung adenocarcinoma",
+        "lung large cell carcinoma",
         "cervical adenocarcinoma",
-        "lung large cell carcinoma"
+        "chronic myeloid leukemia"
       ],
       "instruments": [
         "Orbitrap Exploris 480",
@@ -11228,8 +12159,8 @@
       "num_samples": 35,
       "num_columns": 41,
       "organisms": [
-        "Homo sapiens",
-        "Xenopus laevis"
+        "Xenopus laevis",
+        "Homo sapiens"
       ],
       "diseases": [
         "cervical adenocarcinoma"
@@ -11362,6 +12293,35 @@
       "version": "unknown"
     },
     {
+      "id": "PXD055160",
+      "file": "PXD055160.sdrf.tsv",
+      "filename": "PXD055160.sdrf.tsv",
+      "path": "datasets/PXD055160/PXD055160.sdrf.tsv",
+      "accession_path": "datasets/PXD055160",
+      "github_url": "https://github.com/bigbio/sdrf-annotated-datasets/blob/main/datasets/PXD055160/PXD055160.sdrf.tsv",
+      "accession_github_url": "https://github.com/bigbio/sdrf-annotated-datasets/tree/main/datasets/PXD055160",
+      "raw_url": "https://raw.githubusercontent.com/bigbio/sdrf-annotated-datasets/main/datasets/PXD055160/PXD055160.sdrf.tsv",
+      "num_samples": 8,
+      "num_columns": 33,
+      "organisms": [
+        "Homo sapiens"
+      ],
+      "diseases": [
+        "male infertility"
+      ],
+      "instruments": [
+        "Orbitrap Eclipse"
+      ],
+      "acquisition_methods": [
+        "Data-dependent acquisition"
+      ],
+      "experiment_type": "DDA",
+      "label_type": "Label-free",
+      "accession_file_count": 1,
+      "template": "unknown",
+      "version": "unknown"
+    },
+    {
       "id": "PXD055169",
       "file": "PXD055169.sdrf.tsv",
       "filename": "PXD055169.sdrf.tsv",
@@ -11430,17 +12390,17 @@
         "Homo sapiens"
       ],
       "diseases": [
-        "undifferentiated pancreatic carcinoma",
-        "pancreatic ductal adenocarcinoma"
+        "pancreatic ductal adenocarcinoma",
+        "undifferentiated pancreatic carcinoma"
       ],
       "instruments": [
         "Q Exactive HF-X"
       ],
       "acquisition_methods": [
-        "Data-independent acquisition",
-        "Data-dependent acquisition"
+        "Data-dependent acquisition",
+        "Data-independent acquisition"
       ],
-      "experiment_type": "DIA",
+      "experiment_type": "DDA",
       "label_type": "Label-free",
       "accession_file_count": 1,
       "template": "unknown",
@@ -11467,8 +12427,62 @@
         "Orbitrap Astral"
       ],
       "acquisition_methods": [
-        "Data-independent acquisition",
+        "Data-dependent acquisition",
+        "Data-independent acquisition"
+      ],
+      "experiment_type": "DDA",
+      "label_type": "Label-free",
+      "accession_file_count": 1,
+      "template": "unknown",
+      "version": "unknown"
+    },
+    {
+      "id": "PXD056661",
+      "file": "PXD056661.sdrf.tsv",
+      "filename": "PXD056661.sdrf.tsv",
+      "path": "datasets/PXD056661/PXD056661.sdrf.tsv",
+      "accession_path": "datasets/PXD056661",
+      "github_url": "https://github.com/bigbio/sdrf-annotated-datasets/blob/main/datasets/PXD056661/PXD056661.sdrf.tsv",
+      "accession_github_url": "https://github.com/bigbio/sdrf-annotated-datasets/tree/main/datasets/PXD056661",
+      "raw_url": "https://raw.githubusercontent.com/bigbio/sdrf-annotated-datasets/main/datasets/PXD056661/PXD056661.sdrf.tsv",
+      "num_samples": 9,
+      "num_columns": 33,
+      "organisms": [
+        "Homo sapiens"
+      ],
+      "diseases": [],
+      "instruments": [
+        "Orbitrap Fusion Lumos"
+      ],
+      "acquisition_methods": [
         "Data-dependent acquisition"
+      ],
+      "experiment_type": "DDA",
+      "label_type": "Label-free",
+      "accession_file_count": 1,
+      "template": "unknown",
+      "version": "unknown"
+    },
+    {
+      "id": "PXD057601",
+      "file": "PXD057601.sdrf.tsv",
+      "filename": "PXD057601.sdrf.tsv",
+      "path": "datasets/PXD057601/PXD057601.sdrf.tsv",
+      "accession_path": "datasets/PXD057601",
+      "github_url": "https://github.com/bigbio/sdrf-annotated-datasets/blob/main/datasets/PXD057601/PXD057601.sdrf.tsv",
+      "accession_github_url": "https://github.com/bigbio/sdrf-annotated-datasets/tree/main/datasets/PXD057601",
+      "raw_url": "https://raw.githubusercontent.com/bigbio/sdrf-annotated-datasets/main/datasets/PXD057601/PXD057601.sdrf.tsv",
+      "num_samples": 9,
+      "num_columns": 39,
+      "organisms": [
+        "Homo sapiens"
+      ],
+      "diseases": [],
+      "instruments": [
+        "Orbitrap Fusion"
+      ],
+      "acquisition_methods": [
+        "Data-independent acquisition"
       ],
       "experiment_type": "DIA",
       "label_type": "Label-free",
@@ -11644,6 +12658,64 @@
       "version": "unknown"
     },
     {
+      "id": "PXD061638",
+      "file": "PXD061638.sdrf.tsv",
+      "filename": "PXD061638.sdrf.tsv",
+      "path": "datasets/PXD061638/PXD061638.sdrf.tsv",
+      "accession_path": "datasets/PXD061638",
+      "github_url": "https://github.com/bigbio/sdrf-annotated-datasets/blob/main/datasets/PXD061638/PXD061638.sdrf.tsv",
+      "accession_github_url": "https://github.com/bigbio/sdrf-annotated-datasets/tree/main/datasets/PXD061638",
+      "raw_url": "https://raw.githubusercontent.com/bigbio/sdrf-annotated-datasets/main/datasets/PXD061638/PXD061638.sdrf.tsv",
+      "num_samples": 4,
+      "num_columns": 38,
+      "organisms": [
+        "Homo sapiens"
+      ],
+      "diseases": [
+        "non-syndromic male infertility due to sperm motility disorder"
+      ],
+      "instruments": [
+        "Orbitrap Astral"
+      ],
+      "acquisition_methods": [
+        "Data-independent acquisition"
+      ],
+      "experiment_type": "DIA",
+      "label_type": "Label-free",
+      "accession_file_count": 1,
+      "template": "unknown",
+      "version": "unknown"
+    },
+    {
+      "id": "PXD061698",
+      "file": "PXD061698.sdrf.tsv",
+      "filename": "PXD061698.sdrf.tsv",
+      "path": "datasets/PXD061698/PXD061698.sdrf.tsv",
+      "accession_path": "datasets/PXD061698",
+      "github_url": "https://github.com/bigbio/sdrf-annotated-datasets/blob/main/datasets/PXD061698/PXD061698.sdrf.tsv",
+      "accession_github_url": "https://github.com/bigbio/sdrf-annotated-datasets/tree/main/datasets/PXD061698",
+      "raw_url": "https://raw.githubusercontent.com/bigbio/sdrf-annotated-datasets/main/datasets/PXD061698/PXD061698.sdrf.tsv",
+      "num_samples": 14,
+      "num_columns": 38,
+      "organisms": [
+        "Homo sapiens"
+      ],
+      "diseases": [
+        "non-syndromic male infertility due to sperm motility disorder"
+      ],
+      "instruments": [
+        "Orbitrap Astral"
+      ],
+      "acquisition_methods": [
+        "Data-independent acquisition"
+      ],
+      "experiment_type": "DIA",
+      "label_type": "Label-free",
+      "accession_file_count": 1,
+      "template": "unknown",
+      "version": "unknown"
+    },
+    {
       "id": "PXD061710",
       "file": "PXD061710.sdrf.tsv",
       "filename": "PXD061710.sdrf.tsv",
@@ -11659,15 +12731,44 @@
         "Homo sapiens"
       ],
       "diseases": [
-        "breast adenocarcinoma",
         "pancreatic ductal adenocarcinoma",
-        "colorectal carcinoma"
+        "colorectal carcinoma",
+        "breast adenocarcinoma"
       ],
       "instruments": [
         "timsTOF SCP"
       ],
       "acquisition_methods": [
         "data-independent acquisition"
+      ],
+      "experiment_type": "DIA",
+      "label_type": "Label-free",
+      "accession_file_count": 1,
+      "template": "unknown",
+      "version": "unknown"
+    },
+    {
+      "id": "PXD061725",
+      "file": "PXD061725.sdrf.tsv",
+      "filename": "PXD061725.sdrf.tsv",
+      "path": "datasets/PXD061725/PXD061725.sdrf.tsv",
+      "accession_path": "datasets/PXD061725",
+      "github_url": "https://github.com/bigbio/sdrf-annotated-datasets/blob/main/datasets/PXD061725/PXD061725.sdrf.tsv",
+      "accession_github_url": "https://github.com/bigbio/sdrf-annotated-datasets/tree/main/datasets/PXD061725",
+      "raw_url": "https://raw.githubusercontent.com/bigbio/sdrf-annotated-datasets/main/datasets/PXD061725/PXD061725.sdrf.tsv",
+      "num_samples": 33,
+      "num_columns": 38,
+      "organisms": [
+        "Homo sapiens"
+      ],
+      "diseases": [
+        "non-syndromic male infertility due to sperm motility disorder"
+      ],
+      "instruments": [
+        "Orbitrap Astral"
+      ],
+      "acquisition_methods": [
+        "Data-independent acquisition"
       ],
       "experiment_type": "DIA",
       "label_type": "Label-free",
@@ -11871,6 +12972,64 @@
       "version": "unknown"
     },
     {
+      "id": "PXD064912",
+      "file": "PXD064912.sdrf.tsv",
+      "filename": "PXD064912.sdrf.tsv",
+      "path": "datasets/PXD064912/PXD064912.sdrf.tsv",
+      "accession_path": "datasets/PXD064912",
+      "github_url": "https://github.com/bigbio/sdrf-annotated-datasets/blob/main/datasets/PXD064912/PXD064912.sdrf.tsv",
+      "accession_github_url": "https://github.com/bigbio/sdrf-annotated-datasets/tree/main/datasets/PXD064912",
+      "raw_url": "https://raw.githubusercontent.com/bigbio/sdrf-annotated-datasets/main/datasets/PXD064912/PXD064912.sdrf.tsv",
+      "num_samples": 3,
+      "num_columns": 38,
+      "organisms": [
+        "Homo sapiens"
+      ],
+      "diseases": [],
+      "instruments": [
+        "Orbitrap Fusion Lumos"
+      ],
+      "acquisition_methods": [
+        "Data-independent acquisition"
+      ],
+      "experiment_type": "DIA",
+      "label_type": "Label-free",
+      "accession_file_count": 1,
+      "template": "unknown",
+      "version": "unknown"
+    },
+    {
+      "id": "PXD066685",
+      "file": "PXD066685.sdrf.tsv",
+      "filename": "PXD066685.sdrf.tsv",
+      "path": "datasets/PXD066685/PXD066685.sdrf.tsv",
+      "accession_path": "datasets/PXD066685",
+      "github_url": "https://github.com/bigbio/sdrf-annotated-datasets/blob/main/datasets/PXD066685/PXD066685.sdrf.tsv",
+      "accession_github_url": "https://github.com/bigbio/sdrf-annotated-datasets/tree/main/datasets/PXD066685",
+      "raw_url": "https://raw.githubusercontent.com/bigbio/sdrf-annotated-datasets/main/datasets/PXD066685/PXD066685.sdrf.tsv",
+      "num_samples": 19,
+      "num_columns": 38,
+      "organisms": [
+        "Homo sapiens"
+      ],
+      "diseases": [
+        "endometriosis",
+        "ovarian endometriosis",
+        "endometriosis of pelvic peritoneum"
+      ],
+      "instruments": [
+        "Orbitrap Exploris 480"
+      ],
+      "acquisition_methods": [
+        "Data-independent acquisition"
+      ],
+      "experiment_type": "DIA",
+      "label_type": "Label-free",
+      "accession_file_count": 1,
+      "template": "unknown",
+      "version": "unknown"
+    },
+    {
       "id": "PXD067119",
       "file": "PXD067119.sdrf.tsv",
       "filename": "PXD067119.sdrf.tsv",
@@ -12057,15 +13216,42 @@
         "Homo sapiens"
       ],
       "diseases": [
-        "chronic myeloid leukemia",
         "endocervical adenocarcinoma",
-        "leukemia"
+        "leukemia",
+        "chronic myeloid leukemia"
       ],
       "instruments": [
         "Orbitrap Astral"
       ],
       "acquisition_methods": [
         "data-independent acquisition"
+      ],
+      "experiment_type": "DIA",
+      "label_type": "Label-free",
+      "accession_file_count": 1,
+      "template": "unknown",
+      "version": "unknown"
+    },
+    {
+      "id": "PXD070868",
+      "file": "PXD070868.sdrf.tsv",
+      "filename": "PXD070868.sdrf.tsv",
+      "path": "datasets/PXD070868/PXD070868.sdrf.tsv",
+      "accession_path": "datasets/PXD070868",
+      "github_url": "https://github.com/bigbio/sdrf-annotated-datasets/blob/main/datasets/PXD070868/PXD070868.sdrf.tsv",
+      "accession_github_url": "https://github.com/bigbio/sdrf-annotated-datasets/tree/main/datasets/PXD070868",
+      "raw_url": "https://raw.githubusercontent.com/bigbio/sdrf-annotated-datasets/main/datasets/PXD070868/PXD070868.sdrf.tsv",
+      "num_samples": 6,
+      "num_columns": 28,
+      "organisms": [
+        "Homo sapiens"
+      ],
+      "diseases": [],
+      "instruments": [
+        "Orbitrap Astral"
+      ],
+      "acquisition_methods": [
+        "Data-independent acquisition"
       ],
       "experiment_type": "DIA",
       "label_type": "Label-free",
