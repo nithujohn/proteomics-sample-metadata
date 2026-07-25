@@ -39322,25 +39322,25 @@
   "combination_rules": {
     "mutually_exclusive": [
       [
-        "affinity-proteomics",
-        "ms-metabolomics",
-        "ms-proteomics"
-      ],
-      [
         "human-gut",
         "soil",
         "water"
       ],
       [
+        "affinity-proteomics",
+        "ms-metabolomics",
+        "ms-proteomics"
+      ],
+      [
         "human",
         "invertebrates",
-        "metaproteomics",
         "plants",
         "vertebrates"
       ],
       [
         "human",
         "invertebrates",
+        "metaproteomics",
         "plants",
         "vertebrates"
       ],
