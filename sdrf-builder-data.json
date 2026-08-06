@@ -39330,11 +39330,6 @@
       ],
       [
         "affinity-proteomics",
-        "ms-metabolomics",
-        "ms-proteomics"
-      ],
-      [
-        "affinity-proteomics",
         "ms-proteomics"
       ],
       [
@@ -39342,6 +39337,11 @@
         "invertebrates",
         "plants",
         "vertebrates"
+      ],
+      [
+        "affinity-proteomics",
+        "ms-metabolomics",
+        "ms-proteomics"
       ],
       [
         "human-gut",
