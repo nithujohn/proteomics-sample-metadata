@@ -39328,7 +39328,6 @@
       [
         "human",
         "invertebrates",
-        "metaproteomics",
         "plants",
         "vertebrates"
       ],
@@ -39338,15 +39337,16 @@
         "water"
       ],
       [
+        "human",
+        "invertebrates",
+        "metaproteomics",
+        "plants",
+        "vertebrates"
+      ],
+      [
         "affinity-proteomics",
         "ms-metabolomics",
         "ms-proteomics"
-      ],
-      [
-        "human",
-        "invertebrates",
-        "plants",
-        "vertebrates"
       ]
     ],
     "requires": {
