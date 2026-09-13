@@ -39322,13 +39322,13 @@
   "combination_rules": {
     "mutually_exclusive": [
       [
+        "affinity-proteomics",
+        "ms-proteomics"
+      ],
+      [
         "human-gut",
         "soil",
         "water"
-      ],
-      [
-        "affinity-proteomics",
-        "ms-proteomics"
       ],
       [
         "human",
