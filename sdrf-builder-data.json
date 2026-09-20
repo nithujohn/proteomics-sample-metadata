@@ -39324,12 +39324,12 @@
       [
         "human",
         "invertebrates",
-        "metaproteomics",
         "plants",
         "vertebrates"
       ],
       [
         "affinity-proteomics",
+        "ms-metabolomics",
         "ms-proteomics"
       ],
       [
@@ -39339,12 +39339,12 @@
       ],
       [
         "affinity-proteomics",
-        "ms-metabolomics",
         "ms-proteomics"
       ],
       [
         "human",
         "invertebrates",
+        "metaproteomics",
         "plants",
         "vertebrates"
       ]
