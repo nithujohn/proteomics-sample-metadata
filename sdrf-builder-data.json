@@ -39323,6 +39323,7 @@
     "mutually_exclusive": [
       [
         "affinity-proteomics",
+        "ms-metabolomics",
         "ms-proteomics"
       ],
       [
@@ -39333,20 +39334,19 @@
       [
         "human",
         "invertebrates",
-        "plants",
-        "vertebrates"
-      ],
-      [
-        "human",
-        "invertebrates",
         "metaproteomics",
         "plants",
         "vertebrates"
       ],
       [
         "affinity-proteomics",
-        "ms-metabolomics",
         "ms-proteomics"
+      ],
+      [
+        "human",
+        "invertebrates",
+        "plants",
+        "vertebrates"
       ]
     ],
     "requires": {
