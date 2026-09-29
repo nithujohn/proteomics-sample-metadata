@@ -39324,13 +39324,8 @@
       [
         "human",
         "invertebrates",
-        "metaproteomics",
         "plants",
         "vertebrates"
-      ],
-      [
-        "affinity-proteomics",
-        "ms-proteomics"
       ],
       [
         "affinity-proteomics",
@@ -39340,8 +39335,13 @@
       [
         "human",
         "invertebrates",
+        "metaproteomics",
         "plants",
         "vertebrates"
+      ],
+      [
+        "affinity-proteomics",
+        "ms-proteomics"
       ],
       [
         "human-gut",
