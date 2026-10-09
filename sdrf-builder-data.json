@@ -39322,10 +39322,6 @@
   "combination_rules": {
     "mutually_exclusive": [
       [
-        "affinity-proteomics",
-        "ms-proteomics"
-      ],
-      [
         "human",
         "invertebrates",
         "metaproteomics",
@@ -39341,6 +39337,10 @@
         "human-gut",
         "soil",
         "water"
+      ],
+      [
+        "affinity-proteomics",
+        "ms-proteomics"
       ],
       [
         "human",
