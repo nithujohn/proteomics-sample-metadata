@@ -39327,11 +39327,6 @@
         "water"
       ],
       [
-        "affinity-proteomics",
-        "ms-metabolomics",
-        "ms-proteomics"
-      ],
-      [
         "human",
         "invertebrates",
         "plants",
@@ -39346,6 +39341,11 @@
       ],
       [
         "affinity-proteomics",
+        "ms-proteomics"
+      ],
+      [
+        "affinity-proteomics",
+        "ms-metabolomics",
         "ms-proteomics"
       ]
     ],
