@@ -39322,15 +39322,12 @@
   "combination_rules": {
     "mutually_exclusive": [
       [
-        "human",
-        "invertebrates",
-        "plants",
-        "vertebrates"
+        "affinity-proteomics",
+        "ms-proteomics"
       ],
       [
         "human",
         "invertebrates",
-        "metaproteomics",
         "plants",
         "vertebrates"
       ],
@@ -39340,8 +39337,11 @@
         "ms-proteomics"
       ],
       [
-        "affinity-proteomics",
-        "ms-proteomics"
+        "human",
+        "invertebrates",
+        "metaproteomics",
+        "plants",
+        "vertebrates"
       ],
       [
         "human-gut",
