@@ -39329,17 +39329,13 @@
         "vertebrates"
       ],
       [
-        "affinity-proteomics",
-        "ms-metabolomics",
-        "ms-proteomics"
-      ],
-      [
         "human-gut",
         "soil",
         "water"
       ],
       [
         "affinity-proteomics",
+        "ms-metabolomics",
         "ms-proteomics"
       ],
       [
@@ -39347,6 +39343,10 @@
         "invertebrates",
         "plants",
         "vertebrates"
+      ],
+      [
+        "affinity-proteomics",
+        "ms-proteomics"
       ]
     ],
     "requires": {
